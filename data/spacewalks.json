@@ -1,0 +1,3377 @@
+[
+  {
+    "EVA #": 1,
+    "Country": "USA",
+    "Crew": "Ed White",
+    "Vehicle": "Gemini IV",
+    "Date": "06/03/1965",
+    "Duration": "0:36",
+    "Purpose": "First U.S. EVA. Used HHMU and took  photos.  Gas flow cooling of 25ft umbilical overwhelmed by vehicle ingress work and helmet fogged.  Lost overglove.  Jettisoned thermal gloves and helmet sun visor"
+  },
+  {
+    "EVA #": 2,
+    "Country": "USA",
+    "Crew": "David Scott",
+    "Vehicle": "Gemini VIII",
+    "Date": "",
+    "Duration": "0:00",
+    "Purpose": "HHMU EVA cancelled before starting by stuck on vehicle thruster that ended mission early"
+  },
+  {
+    "EVA #": 3,
+    "Country": "USA",
+    "Crew": "Eugene Cernan",
+    "Vehicle": "Gemini IX-A",
+    "Date": "06/05/1966",
+    "Duration": "2:07",
+    "Purpose": "Inadequate restraints, stiff 25ft umbilical and high workloads exceeded suit vent loop cooling capacity and caused fogging.  Demo called off of tethered astronaut maneuvering unit"
+  },
+  {
+    "EVA #": 4,
+    "Country": "USA",
+    "Crew": "Mike Collins",
+    "Vehicle": "Gemini X",
+    "Date": "07/19/1966",
+    "Duration": "0:50",
+    "Purpose": "Standup EVA.  UV photos of stars.  Ended by eye irritation that impaired vision"
+  },
+  {
+    "EVA #": 5,
+    "Country": "USA",
+    "Crew": "Mike Collins",
+    "Vehicle": "Gemini X",
+    "Date": "07/20/1966",
+    "Duration": "0:39",
+    "Purpose": "Retrieved MMOD experiment from docked Agena.  Used HHMU. Lost camera and retrieved experiment. EVA ended early by unrelated spacecraft problem"
+  },
+  {
+    "EVA #": 6,
+    "Country": "USA",
+    "Crew": "Richard Gordon",
+    "Vehicle": "Gemini XI",
+    "Date": "09/13/1966",
+    "Duration": "0:44",
+    "Purpose": "Attached tether between Agena and Gemini.  EVA ended early due to fatigue, overheating & eye sweat"
+  },
+  {
+    "EVA #": 7,
+    "Country": "USA",
+    "Crew": "Richard Gordon",
+    "Vehicle": "Gemini XI",
+    "Date": "09/14/1966",
+    "Duration": "2:10",
+    "Purpose": "Standup EVA.  Took star photos. Agena tether ops"
+  },
+  {
+    "EVA #": 8,
+    "Country": "USA",
+    "Crew": "Buzz Aldrin",
+    "Vehicle": "Gemini XII",
+    "Date": "11/12/1966",
+    "Duration": "2:29",
+    "Purpose": "Standup EVA.  Science tasks.  Took star photos"
+  },
+  {
+    "EVA #": 9,
+    "Country": "USA",
+    "Crew": "Buzz Aldrin",
+    "Vehicle": "Gemini XII",
+    "Date": "11/13/1966",
+    "Duration": "2:06",
+    "Purpose": "Attached tether between Agena and Gemini.  UV photos of stars.  Waist tether and Dutch shoe eval"
+  },
+  {
+    "EVA #": 10,
+    "Country": "USA",
+    "Crew": "Buzz Aldrin",
+    "Vehicle": "Gemini XII",
+    "Date": "11/14/1966",
+    "Duration": "0:55",
+    "Purpose": "Standup EVA.  Jettisoned equipment.  Took photos"
+  },
+  {
+    "EVA #": 11,
+    "Country": "USA",
+    "Crew": "David Scott",
+    "Vehicle": "Apollo 9",
+    "Date": "03/06/1969",
+    "Duration": "0:47",
+    "Purpose": "Standup EVA from crew module.  Retrieved thermal experiment samples"
+  },
+  {
+    "EVA #": 12,
+    "Country": "USA",
+    "Crew": "Russ Schweickart",
+    "Vehicle": "Apollo 9",
+    "Date": "03/06/1969",
+    "Duration": "0:51",
+    "Purpose": "Lunar module based.  Took photos.  Evaluated foot restraint and handrails.  Retrieved thermal experiment samples.  First use of PLSS followed by recharge demo after EVA"
+  },
+  {
+    "EVA #": 13,
+    "Country": "USA",
+    "Crew": "Neil Armstrong       Buzz Aldrin",
+    "Vehicle": "Apollo 11",
+    "Date": "07/20/1969",
+    "Duration": "2:32",
+    "Purpose": "First to walk on the moon.  Some trouble getting out small hatch.  46.3 lb of geologic material collected.  EASEP seismograph and laser reflector exp deployed.  Solar wind exp deployed & retrieved.  400 ft (120m) circuit on foot.  Dust issue post EVA"
+  },
+  {
+    "EVA #": 14,
+    "Country": "USA",
+    "Crew": "Neil Armstrong       Buzz Aldrin",
+    "Vehicle": "Apollo 11",
+    "Date": "07/20/1969",
+    "Duration": "0:05",
+    "Purpose": "Jettison suit backpacks and equip to lighten ascent"
+  },
+  {
+    "EVA #": 15,
+    "Country": "USA",
+    "Crew": "Allen Bean               Pete Conrad",
+    "Vehicle": "Apollo 12",
+    "Date": "11/19/1969",
+    "Duration": "3:39",
+    "Purpose": "Collected 75.6 lb of geologic material.  ALSEP exp deployed.  6000 ft (1800m) circuit on foot"
+  },
+  {
+    "EVA #": 16,
+    "Country": "USA",
+    "Crew": "Allen Bean               Pete Conrad",
+    "Vehicle": "Apollo 12",
+    "Date": "11/20/1969",
+    "Duration": "3:48",
+    "Purpose": "Retrieved parts of Surveyor 3 spacecraft."
+  },
+  {
+    "EVA #": 17,
+    "Country": "USA",
+    "Crew": "Allen Bean               Pete Conrad",
+    "Vehicle": "Apollo 12",
+    "Date": "11/20/1969",
+    "Duration": "0:05",
+    "Purpose": "Jettison suit backpacks and equip to lighten ascent"
+  },
+  {
+    "EVA #": 18,
+    "Country": "USA",
+    "Crew": "Ed Mitchell           Alan Shepard",
+    "Vehicle": "Apollo 14",
+    "Date": "02/05/1971",
+    "Duration": "4:48",
+    "Purpose": "Collected 94.4 lb of geologic material.  ALSEP and laser reflector exp deployed.  Hiked up to 0.9 miles (1.5km) from lunar module.  Used MET rickshaw"
+  },
+  {
+    "EVA #": 19,
+    "Country": "USA",
+    "Crew": "Ed Mitchell           Alan Shepard",
+    "Vehicle": "Apollo 14",
+    "Date": "02/06/1971",
+    "Duration": "4:34",
+    "Purpose": "Sought but did not quite reach crater.  Golf demo"
+  },
+  {
+    "EVA #": 20,
+    "Country": "USA",
+    "Crew": "Ed Mitchell           Alan Shepard",
+    "Vehicle": "Apollo 14",
+    "Date": "02/06/1971",
+    "Duration": "0:05",
+    "Purpose": "Jettison suit backpacks and equip to lighten ascent"
+  },
+  {
+    "EVA #": 21,
+    "Country": "USA",
+    "Crew": "David Scott",
+    "Vehicle": "Apollo 15",
+    "Date": "07/30/1971",
+    "Duration": "0:33",
+    "Purpose": "Standup EVA to scout and photograph lunar surface before traverse"
+  },
+  {
+    "EVA #": 22,
+    "Country": "USA",
+    "Crew": "David Scott                   James Irwin",
+    "Vehicle": "Apollo 15",
+    "Date": "07/31/1971",
+    "Duration": "6:34",
+    "Purpose": "Collected 169 lb of geologic material.  ALSEP exp deployed.  First use of the lunar rover.  Covered 6.2 mile (10.3 km) circuit"
+  },
+  {
+    "EVA #": 23,
+    "Country": "USA",
+    "Crew": "David Scott                   James Irwin",
+    "Vehicle": "Apollo 15",
+    "Date": "08/01/1971",
+    "Duration": "7:12",
+    "Purpose": ""
+  },
+  {
+    "EVA #": 24,
+    "Country": "USA",
+    "Crew": "David Scott                   James Irwin",
+    "Vehicle": "Apollo 15",
+    "Date": "08/02/1971",
+    "Duration": "4:49",
+    "Purpose": ""
+  },
+  {
+    "EVA #": 25,
+    "Country": "USA",
+    "Crew": "David Scott                   James Irwin",
+    "Vehicle": "Apollo 15",
+    "Date": "08/02/1971",
+    "Duration": "0:05",
+    "Purpose": "Jettison suit backpacks and equip to lighten ascent"
+  },
+  {
+    "EVA #": 26,
+    "Country": "USA",
+    "Crew": "Al Worden",
+    "Vehicle": "Apollo 15",
+    "Date": "08/05/1971",
+    "Duration": "0:39",
+    "Purpose": "First transearth EVA.  Retrieved 2 camera film cassettes"
+  },
+  {
+    "EVA #": 27,
+    "Country": "USA",
+    "Crew": "John Young        Charles Duke",
+    "Vehicle": "Apollo 16",
+    "Date": "04/21/1972",
+    "Duration": "7:11",
+    "Purpose": "Collected 208 lb of rock/dust (41lb this day). ALSEP & solar wind experiments deployed. Assembled and used lunar rover (4.2 km)."
+  },
+  {
+    "EVA #": 28,
+    "Country": "USA",
+    "Crew": "John Young        Charles Duke",
+    "Vehicle": "Apollo 16",
+    "Date": "04/22/1972",
+    "Duration": "7:23",
+    "Purpose": "Collected 82 lb of rock/dust. Drove rover 11.5 km"
+  },
+  {
+    "EVA #": 29,
+    "Country": "USA",
+    "Crew": "John Young        Charles Duke",
+    "Vehicle": "Apollo 16",
+    "Date": "04/23/1972",
+    "Duration": "5:40",
+    "Purpose": "Collected 90 lb of rock/dust.  Drove rover 27.1 km"
+  },
+  {
+    "EVA #": 30,
+    "Country": "USA",
+    "Crew": "John Young        Charles Duke",
+    "Vehicle": "Apollo 16",
+    "Date": "04/23/1972",
+    "Duration": "0:04",
+    "Purpose": "Jettison suit backpacks and equip to lighten ascent"
+  },
+  {
+    "EVA #": 31,
+    "Country": "USA",
+    "Crew": "Tom Mattingly",
+    "Vehicle": "Apollo 16",
+    "Date": "04/25/1972",
+    "Duration": "1:23",
+    "Purpose": "Transearth EVA to retrieve camera film and expose microbial response experiment"
+  },
+  {
+    "EVA #": 32,
+    "Country": "USA",
+    "Crew": "Harrison Schmidt   Eugene Cernan",
+    "Vehicle": "Apollo 17",
+    "Date": "12/11/1972",
+    "Duration": "7:12",
+    "Purpose": "Collected 243 lb of geologic material.  ALSEP exp deployed.   8 seismic explosive charges placed for later use.  Used lunar rover to travel 11.4 miles (19 km) circuit with max range of 4.9 miles from lunar module."
+  },
+  {
+    "EVA #": 33,
+    "Country": "USA",
+    "Crew": "Harrison Schmidt   Eugene Cernan",
+    "Vehicle": "Apollo 17",
+    "Date": "12/12/1972",
+    "Duration": "7:37",
+    "Purpose": ""
+  },
+  {
+    "EVA #": 34,
+    "Country": "USA",
+    "Crew": "Harrison Schmidt   Eugene Cernan",
+    "Vehicle": "Apollo 17",
+    "Date": "12/13/1972",
+    "Duration": "7:16",
+    "Purpose": ""
+  },
+  {
+    "EVA #": 35,
+    "Country": "USA",
+    "Crew": "Harrison Schmidt   Eugene Cernan",
+    "Vehicle": "Apollo 17",
+    "Date": "12/13/1972",
+    "Duration": "0:08",
+    "Purpose": "Jettison suit backpacks and equip to lighten ascent"
+  },
+  {
+    "EVA #": 36,
+    "Country": "USA",
+    "Crew": "Ron Evans",
+    "Vehicle": "Apollo 17",
+    "Date": "12/17/1972",
+    "Duration": "1:07",
+    "Purpose": "Transearth EVA to retrieve camera film"
+  },
+  {
+    "EVA #": 37,
+    "Country": "USA",
+    "Crew": "Paul Weitz           Joe Kerwin",
+    "Vehicle": "Skylab 2",
+    "Date": "05/25/1973",
+    "Duration": "0:40",
+    "Purpose": "Standup EVA.  While based in hatch of just arrived hovering spacecraft, failed to pull/pry free solar panel held by cm wide scrap of MMOD shield"
+  },
+  {
+    "EVA #": "",
+    "Country": "USA",
+    "Crew": "Paul Weitz           Joe Kerwin      Pete Conrad",
+    "Vehicle": "Skylab 2",
+    "Date": "05/25/1973",
+    "Duration": "",
+    "Purpose": "After normal docking failed, all donned suits, depressurized spacecraft, opened forward tunnel hatch and removed the docking probe's back plate to bypass some electrical connections"
+  },
+  {
+    "EVA #": 38,
+    "Country": "USA",
+    "Crew": "Pete Conrad           Joe Kerwin",
+    "Vehicle": "Skylab 2",
+    "Date": "06/07/1973",
+    "Duration": "3:25",
+    "Purpose": "Without body restraint, initially unable to attach 25ft pole/cutter jaws to aluminum scrap holding jammed solar panel.  Improvised body restraint with suit tether to unexpected vehicle U bolt for 3 pt stance to enable pole positioning and cut.  After debris cut, attached pole as translation path to solar array.  Rope hooked between airlock solar array cover structure as means to overcome frozen hydraulic damper of solar array hinge.  Both crew stood under rope and pushed until array freed suddenly which caused both crew to drift free until hauled themselves back in via umbilicals.  Hardest task was restowing umbilicals into stow sphere at end of day"
+  },
+  {
+    "EVA #": 39,
+    "Country": "USA",
+    "Crew": "Pete Conrad            Paul Weitz",
+    "Vehicle": "Skylab 2",
+    "Date": "06/19/1973",
+    "Duration": "1:36",
+    "Purpose": "Retrieved Apollo Telescope Mount film and repaired power module relay with hammer blow.  Cleaned camera lens"
+  },
+  {
+    "EVA #": 40,
+    "Country": "USA",
+    "Crew": "Owen Garriott          Jack Lousma",
+    "Vehicle": "Skylab 3",
+    "Date": "08/06/1973",
+    "Duration": "6:31",
+    "Purpose": "Constructed/deployed twin-pole thermal shield to reduce internal spacecraft temperatures.  Loaded telescope camera with film.  Inspected previously leaking thrusters.  Restored telescope door motion and deployed meteroid sampling exp"
+  },
+  {
+    "EVA #": 41,
+    "Country": "USA",
+    "Crew": "Owen Garriott          Jack Lousma",
+    "Vehicle": "Skylab 3",
+    "Date": "08/24/1973",
+    "Duration": "4:31",
+    "Purpose": "Installed cable for backup gyro package.  Exchanged telescope camera film.  Deployed parasol samples"
+  },
+  {
+    "EVA #": 42,
+    "Country": "USA",
+    "Crew": "Owen Garriott         Allen Bean",
+    "Vehicle": "Skylab 3",
+    "Date": "09/22/1973",
+    "Duration": "2:41",
+    "Purpose": "Recovered telescope camera film, material samples and meteroid exp.  Cleaned camera lens"
+  },
+  {
+    "EVA #": 43,
+    "Country": "USA",
+    "Crew": "Ed Gibson                   Bill Pogue",
+    "Vehicle": "Skylab 4",
+    "Date": "11/22/1973",
+    "Duration": "6:33",
+    "Purpose": "Photographed earth atmosphere.  Deployed spacecraft contamination measurement exp.  Reloaded telescope camera film.  Repaired microwave sensor antenna.  Pinned open telescope door.  Retrieved meteroid sample collector"
+  },
+  {
+    "EVA #": 44,
+    "Country": "USA",
+    "Crew": "Gerald Carr                Bill Pogue",
+    "Vehicle": "Skylab 4",
+    "Date": "12/25/1973",
+    "Duration": "7:01",
+    "Purpose": "Photographed comet Kohoutek, reloaded telescope camera film, pinned open failed solar UV exp door.  Installed solar UV/X-Ray camera.  Repositioned jammed filter wheel in x-ray telescope"
+  },
+  {
+    "EVA #": 45,
+    "Country": "USA",
+    "Crew": "Gerald Carr                 Ed Gibson",
+    "Vehicle": "Skylab 4",
+    "Date": "12/29/1973",
+    "Duration": "3:29",
+    "Purpose": "Photographed comet Kohoutek.  Retrieved sample of meteroid protection cover"
+  },
+  {
+    "EVA #": 46,
+    "Country": "USA",
+    "Crew": "Gerald Carr                 Ed Gibson",
+    "Vehicle": "Skylab 4",
+    "Date": "02/03/1974",
+    "Duration": "5:19",
+    "Purpose": "Retrieved telescope camera film and installed meteroid collection experiment. Gibson reported coolant leakage from EVA life support system"
+  },
+  {
+    "EVA #": "",
+    "Country": "USA",
+    "Crew": "Bill Lenoir                 Joe Allen",
+    "Vehicle": "STS-5",
+    "Date": "11/14/1982",
+    "Duration": "0:00",
+    "Purpose": "Suit fan and O2 regulator failures prevented first Shuttle EVA.  No spare suit onboard"
+  },
+  {
+    "EVA #": 47,
+    "Country": "USA",
+    "Crew": "Story Musgrave       Don Peterson",
+    "Vehicle": "STS-6",
+    "Date": "04/07/1983",
+    "Duration": "4:17",
+    "Purpose": "First shuttle EVA.  New suits tested.  Basic orbiter/payload contingency tasks practiced.  Winch failed to retract"
+  },
+  {
+    "EVA #": 48,
+    "Country": "USA",
+    "Crew": "Bob Stewart        Bruce McCandless",
+    "Vehicle": "STS-41B",
+    "Date": "02/07/1984",
+    "Duration": "5:56",
+    "Purpose": "Practiced Solar Max repair. Used MMU and MFR for first time.  PLB camera D changed out.  Slidewire bracket pip-pin pulled free by crew tether inadvertantly.  SPAS switch adjusted"
+  },
+  {
+    "EVA #": 49,
+    "Country": "USA",
+    "Crew": "Bob Stewart        Bruce McCandless",
+    "Vehicle": "STS-41B",
+    "Date": "02/09/1984",
+    "Duration": "6:09",
+    "Purpose": "Practiced MMU docking with fixed target.  Simple satellite refueling demo (freon).  Foot restraint lost overboard and recovered."
+  },
+  {
+    "EVA #": 50,
+    "Country": "USA",
+    "Crew": "James Van Hoften      George Nelson",
+    "Vehicle": "STS-41C",
+    "Date": "04/08/1984",
+    "Duration": "2:53",
+    "Purpose": "Failed to dock MMU to Solar Max satellite due to thermal grommet interference.  Manual grasp of solar array increased satellite instability"
+  },
+  {
+    "EVA #": 51,
+    "Country": "USA",
+    "Crew": "James Van Hoften      George Nelson",
+    "Vehicle": "STS-41C",
+    "Date": "04/11/1984",
+    "Duration": "7:05",
+    "Purpose": "After ground cmd stabilization and RMS grapple, Solar Max repaired (attitude control and main elec boxes replaced, MEB not designed for replacement).  Small trash bag lost due to inadvertment release of MWS lock.  MMU engineering test performed"
+  },
+  {
+    "EVA #": 52,
+    "Country": "USA",
+    "Crew": "Dave Leestma          Kathy Sullivan",
+    "Vehicle": "STS-41G",
+    "Date": "10/11/1984",
+    "Duration": "3:29",
+    "Purpose": "First U.S. female EVA.  Demonstrated hydrazine refueling.  Aligned gimbals of Ku antenna  for IV commanded locking.  SIRB latching assisted.  Recovered lost airlock valve cap."
+  },
+  {
+    "EVA #": 53,
+    "Country": "USA",
+    "Crew": "Joe Allen                    Dale Gardner",
+    "Vehicle": "STS-51A",
+    "Date": "11/12/1984",
+    "Duration": "6:02",
+    "Purpose": "PALAPA retrieval.  MMU used.  Had to use manual satellite restraint when structure with RMS grapple fixture failed to attach due to unexpected structure on satellite."
+  },
+  {
+    "EVA #": 54,
+    "Country": "USA",
+    "Crew": "Joe Allen                    Dale Gardner",
+    "Vehicle": "STS-51A",
+    "Date": "11/14/1984",
+    "Duration": "5:48",
+    "Purpose": "WESTAR retrieval.  MMU used.  Recovered untethered torque wrench (twice) and draeger tube (once).  Lost power tool"
+  },
+  {
+    "EVA #": 55,
+    "Country": "USA",
+    "Crew": "Dave Griggs           Jeff Hoffman",
+    "Vehicle": "STS-51D",
+    "Date": "04/16/1985",
+    "Duration": "3:10",
+    "Purpose": "Flyswatter\" attached to end of RMS to attempt to activate LEASAT/SYNCOM IV sequence start lever.  Lever tripped but satellite was actually failed elsewhere.  Griggs inadvertently went out over wing"
+  },
+  {
+    "EVA #": 56,
+    "Country": "USA",
+    "Crew": "James Van Hoften   Bill Fisher",
+    "Vehicle": "STS-51I",
+    "Date": "08/31/1985",
+    "Duration": "7:09",
+    "Purpose": "LEASAT/SYNCOM IV repairs started.  RMS failure to single joint mode forced second EVA.  Lost power tool overboard."
+  },
+  {
+    "EVA #": 57,
+    "Country": "USA",
+    "Crew": "James Van Hoften   Bill Fisher",
+    "Vehicle": "STS-51I",
+    "Date": "09/01/1985",
+    "Duration": "4:29",
+    "Purpose": "LEASAT/SYNCOM IV repairs completed.  Accidently reused depleted LiOH cans from 1st EVA."
+  },
+  {
+    "EVA #": 58,
+    "Country": "USA",
+    "Crew": "Jerry Ross             Woody Spring",
+    "Vehicle": "STS-61B",
+    "Date": "11/29/1985",
+    "Duration": "5:38",
+    "Purpose": "EASE/ACCESS truss assembly and stowage demos.  Deployed radar target"
+  },
+  {
+    "EVA #": 59,
+    "Country": "USA",
+    "Crew": "Jerry Ross             Woody Spring",
+    "Vehicle": "STS-61B",
+    "Date": "12/01/1985",
+    "Duration": "6:48",
+    "Purpose": "EASE/ACCESS truss assembly, stowage and handling demos.  Simulated cable routing with rope reel and heat pipe handling with free EASE beams."
+  },
+  {
+    "EVA #": "",
+    "Country": "USA",
+    "Crew": "Bruce McCandless   Kathy Sullivan",
+    "Vehicle": "STS-31",
+    "Date": "04/24/1990",
+    "Duration": "0:00",
+    "Purpose": "In suits in airlock at 5psi awaiting GO to manually deploy stuck solar array.  Waived off when auto sys worked"
+  },
+  {
+    "EVA #": 60,
+    "Country": "USA",
+    "Crew": "Jerry Ross                  Jay Apt",
+    "Vehicle": "STS-37",
+    "Date": "04/07/1991",
+    "Duration": "4:26",
+    "Purpose": "Freed stuck GRO high gain antenna. Started Space Station demos (recorded crew loads, variable tension rope translation, dogbone handrails)."
+  },
+  {
+    "EVA #": 61,
+    "Country": "USA",
+    "Crew": "Jerry Ross                  Jay Apt",
+    "Vehicle": "STS-37",
+    "Date": "04/08/1991",
+    "Duration": "6:00",
+    "Purpose": "More Space Station demos (evals of 3 different carts and a tether shuttle, RMS translation rates and loads).  Time short for all RMS/EVA tests"
+  },
+  {
+    "EVA #": 62,
+    "Country": "USA",
+    "Crew": "Pierre Thuot          Rick Hieb",
+    "Vehicle": "STS-49",
+    "Date": "05/10/1992",
+    "Duration": "3:43",
+    "Purpose": "Capture bar/grapple fixture attach failed 3 times"
+  },
+  {
+    "EVA #": 63,
+    "Country": "USA",
+    "Crew": "Pierre Thuot          Rick Hieb",
+    "Vehicle": "STS-49",
+    "Date": "05/11/1992",
+    "Duration": "5:30",
+    "Purpose": "Though more careful to induce less loads, capture bar/grapple fixture attach failed 5 times"
+  },
+  {
+    "EVA #": 64,
+    "Country": "USA",
+    "Crew": "Thuot/Hieb/Akers",
+    "Vehicle": "STS-49",
+    "Date": "05/13/1992",
+    "Duration": "8:29",
+    "Purpose": "3 man EVA.  Manually capture/repair INTELSAT"
+  },
+  {
+    "EVA #": 65,
+    "Country": "USA",
+    "Crew": "Tom Akers          Kathy Thornton",
+    "Vehicle": "STS-49",
+    "Date": "05/14/1992",
+    "Duration": "7:44",
+    "Purpose": "ASEM Space Station assembly demos (module to truss mating, updated HHMU self rescue device).  Aligned gimbals of Ku antenna for IV commanded locking"
+  },
+  {
+    "EVA #": 66,
+    "Country": "USA",
+    "Crew": "Greg Harbaugh      Mario Runco",
+    "Vehicle": "STS-54",
+    "Date": "01/17/1993",
+    "Duration": "4:28",
+    "Purpose": "Evaluate training vs. flight differences (DTO 1210).   Encumbered translations.  Foot restraint ingress.  Inspected/avoided misfired IUS tilt table superzip.  Almost lost untethered IUS tilt table equipment."
+  },
+  {
+    "EVA #": 67,
+    "Country": "USA",
+    "Crew": "David Low                Jeff Wisoff",
+    "Vehicle": "STS-57",
+    "Date": "06/25/1993",
+    "Duration": "5:50",
+    "Purpose": "First egress/ingress involving tunnel adapter.  Pushed on 2 EURECA antennas to aid stowage.  Evaluated training vs. flight differences (DTO 1210, large mass handling from RMS, high torque bolts, ORU fine align from RMS with active orbiter jets)"
+  },
+  {
+    "EVA #": 68,
+    "Country": "USA",
+    "Crew": "Carl Walz                 Jim Newman",
+    "Vehicle": "STS-51",
+    "Date": "09/16/1993",
+    "Duration": "7:05",
+    "Purpose": "Evaluate training vs. flight differences (DTO 1210).  Evaluated HST servicing mission tools.  Tool box door jammed temporarily preventing closure"
+  },
+  {
+    "EVA #": 69,
+    "Country": "USA",
+    "Crew": "Story Musgrave      Jeff Hoffman",
+    "Vehicle": "STS-61 /    HST-1",
+    "Date": "12/04/1993",
+    "Duration": "7:54",
+    "Purpose": "HST servicing (RSU, ECU, solar array prep).  RSU bay doors difficult to close."
+  },
+  {
+    "EVA #": 70,
+    "Country": "USA",
+    "Crew": "Tom Akers          Kathy Thornton",
+    "Vehicle": "STS-61 /    HST-1",
+    "Date": "12/05/1993",
+    "Duration": "6:36",
+    "Purpose": "HST servicing (2 solar arrays).   One jettisoned due to pre-EVA damage"
+  },
+  {
+    "EVA #": 71,
+    "Country": "USA",
+    "Crew": "Story Musgrave      Jeff Hoffman",
+    "Vehicle": "STS-61 /    HST-1",
+    "Date": "12/06/1993",
+    "Duration": "6:47",
+    "Purpose": "HST servicing (WFPC 1/2)"
+  },
+  {
+    "EVA #": 72,
+    "Country": "USA",
+    "Crew": "Tom Akers          Kathy Thornton",
+    "Vehicle": "STS-61 /    HST-1",
+    "Date": "12/07/1993",
+    "Duration": "6:50",
+    "Purpose": "HST servicing (HSP/COSTAR)"
+  },
+  {
+    "EVA #": 73,
+    "Country": "USA",
+    "Crew": "Story Musgrave      Jeff Hoffman",
+    "Vehicle": "STS-61 /    HST-1",
+    "Date": "12/08/1993",
+    "Duration": "7:21",
+    "Purpose": "HST servicing (SADE, magnetometers, GHRS)"
+  },
+  {
+    "EVA #": 74,
+    "Country": "USA",
+    "Crew": "Mark Lee                Carl Meade",
+    "Vehicle": "STS-64",
+    "Date": "09/16/1994",
+    "Duration": "6:51",
+    "Purpose": "SAFER self rescue demo, test new tools"
+  },
+  {
+    "EVA #": 75,
+    "Country": "USA",
+    "Crew": "Mike Foale        Bernard Harris",
+    "Vehicle": "STS-63",
+    "Date": "02/09/1995",
+    "Duration": "4:39",
+    "Purpose": "Cold environment eval, large object handling eval using SPARTAN (EDFT-01)"
+  },
+  {
+    "EVA #": 76,
+    "Country": "USA",
+    "Crew": "Jim Voss                  Mike Gernhardt",
+    "Vehicle": "STS-69",
+    "Date": "09/16/1995",
+    "Duration": "6:46",
+    "Purpose": "ISS task board with worksite interface samples.  Elec cuff checklist demo.  Thermal cube experiment"
+  },
+  {
+    "EVA #": 77,
+    "Country": "USA",
+    "Crew": "Leroy Chiao               Dan Barry",
+    "Vehicle": "STS-72",
+    "Date": "",
+    "Duration": "6:09",
+    "Purpose": "ISS umbilical tests with robotically transported portable work platform.  Elec cuff checklist demo."
+  },
+  {
+    "EVA #": 78,
+    "Country": "USA",
+    "Crew": "Leroy Chiao          Winston Scott",
+    "Vehicle": "",
+    "Date": "",
+    "Duration": "6:53",
+    "Purpose": "ISS thermal comfort test, cable tray test, APFR load test.  Thermal cube experiment"
+  },
+  {
+    "EVA #": 79,
+    "Country": "USA",
+    "Crew": "Linda Godwin           Rich Clifford",
+    "Vehicle": "STS-76",
+    "Date": "",
+    "Duration": "6:03",
+    "Purpose": "Deploy 4 MEEP materials experiments on Mir docking module.  Test US/Russian tether and PFR.  Retrieve camera from docking module exterior"
+  },
+  {
+    "EVA #": "",
+    "Country": "USA",
+    "Crew": "Tom Jones       Tammy Jernigan",
+    "Vehicle": "STS-80",
+    "Date": "",
+    "Duration": "0:00",
+    "Purpose": "Loose screw jammed in hatch latch actuator prevented airlock egress"
+  },
+  {
+    "EVA #": 80,
+    "Country": "USA",
+    "Crew": "Mark Lee               Steve Smith",
+    "Vehicle": "STS-82 /      HST-2",
+    "Date": "",
+    "Duration": "6:42",
+    "Purpose": "HST servicing (first STS external airlock sortie, depress gas flow disturbed HST solar arrays, remove/install GHRS/STIS, FOS/NICMOS )"
+  },
+  {
+    "EVA #": 81,
+    "Country": "USA",
+    "Crew": "Greg Harbaugh      Joe Tanner",
+    "Vehicle": "STS-82 /      HST-2",
+    "Date": "",
+    "Duration": "7:27",
+    "Purpose": "HST servicing (remove/install FGS-1/FGS-1R, replace ESTR-2, install OCE enhancement kit)"
+  },
+  {
+    "EVA #": 82,
+    "Country": "USA",
+    "Crew": "Mark Lee               Steve Smith",
+    "Vehicle": "STS-82 /      HST-2",
+    "Date": "",
+    "Duration": "7:11",
+    "Purpose": "HST servicing (remove/install DUI-2/DIU-2R, ESTR-1/SSR, replace RWA)"
+  },
+  {
+    "EVA #": 83,
+    "Country": "USA",
+    "Crew": "Greg Harbaugh      Joe Tanner",
+    "Vehicle": "STS-82 /      HST-2",
+    "Date": "",
+    "Duration": "6:34",
+    "Purpose": "HST servicing (replace SADE, install MSS cover, retrieve degraded MLI sample, install MLI patches)"
+  },
+  {
+    "EVA #": 84,
+    "Country": "USA",
+    "Crew": "Mark Lee               Steve Smith",
+    "Vehicle": "STS-82 /      HST-2",
+    "Date": "",
+    "Duration": "5:17",
+    "Purpose": "HST servicing (unscheduled EVA to add protective covers over degrading aluminized insulation)"
+  },
+  {
+    "EVA #": 85,
+    "Country": "USA",
+    "Crew": "Scott Parazynski       Vladimir Titov",
+    "Vehicle": "STS-86",
+    "Date": "",
+    "Duration": "5:01",
+    "Purpose": "Retrieve 4 MEEP materials experiments on Mir docking module.  Test US/Russian tethers and PFR.  US safety tether would not retract.  Deploy Spektr solar array base sealing cap on docking module."
+  },
+  {
+    "EVA #": 86,
+    "Country": "USA",
+    "Crew": "Winston Scott      Takao Doi",
+    "Vehicle": "STS-87",
+    "Date": "11/24/1997",
+    "Duration": "7:43",
+    "Purpose": "Manual capture and berthing (with RMS aid) of Spartan.  Test of ISS crane with large battery/carrier.  Test of ISS power tool and torque multiplier"
+  },
+  {
+    "EVA #": 87,
+    "Country": "USA",
+    "Crew": "Winston Scott      Takao Doi",
+    "Vehicle": "STS-87",
+    "Date": "12/03/1997",
+    "Duration": "4:59",
+    "Purpose": "Test of ISS crane with small ORUÂs.  Deploy and capture of SPRINT/AERCAM robotic freeflyer"
+  },
+  {
+    "EVA #": 88,
+    "Country": "USA",
+    "Crew": "Jerry Ross              Jim Newman",
+    "Vehicle": "STS-88/2A",
+    "Date": "12/07/1998",
+    "Duration": "7:21",
+    "Purpose": "Connect PMA1-FGB power cables and PMA1/2-Node1 APAS cables"
+  },
+  {
+    "EVA #": 89,
+    "Country": "USA",
+    "Crew": "Jerry Ross              Jim Newman",
+    "Vehicle": "STS-88/2A",
+    "Date": "12/09/1998",
+    "Duration": "7:02",
+    "Purpose": "Install 2 early comm antennas and cables"
+  },
+  {
+    "EVA #": 90,
+    "Country": "USA",
+    "Crew": "Jerry Ross              Jim Newman",
+    "Vehicle": "STS-88/2A",
+    "Date": "12/12/1998",
+    "Duration": "6:59",
+    "Purpose": "Deploy 2 US foot restraints and a tool stanchion.  Aid release of 2 FGB Toru antennas, install FGB aft handrail and reinstall FGB Komplast panel.  SAFER self rescue demo (DTO 689)"
+  },
+  {
+    "EVA #": 91,
+    "Country": "USA",
+    "Crew": "Tammy Jernigan     Dan Barry",
+    "Vehicle": "STS-96/2A.1",
+    "Date": "05/29/1999",
+    "Duration": "7:55",
+    "Purpose": "Transfer and externally install US and Russian cargo cranes, 2 common foot restraints, 3 EVA tool bags.  Lost retractable equip tether"
+  },
+  {
+    "EVA #": 92,
+    "Country": "USA",
+    "Crew": "Steve Smith           John Grunsfeld",
+    "Vehicle": "STS-103/       HST-3A",
+    "Date": "12/22/1999",
+    "Duration": "8:15",
+    "Purpose": "HST servicing (RSU gyros and volt/temp improvement kits for batteries)"
+  },
+  {
+    "EVA #": 93,
+    "Country": "USA",
+    "Crew": "Mike Foale         Claude Nicollier",
+    "Vehicle": "STS-103/       HST-3A",
+    "Date": "12/23/1999",
+    "Duration": "8:10",
+    "Purpose": "HST servicing (486 computer and fine guidance sensor)"
+  },
+  {
+    "EVA #": 94,
+    "Country": "USA",
+    "Crew": "Steve Smith           John Grunsfeld",
+    "Vehicle": "STS-103/       HST-3A",
+    "Date": "12/24/1999",
+    "Duration": "8:08",
+    "Purpose": "HST servicing (transmitter and solid state recorder)"
+  },
+  {
+    "EVA #": 95,
+    "Country": "USA",
+    "Crew": "Jeff Williams            Jim Voss",
+    "Vehicle": "STS-101/2A.2a",
+    "Date": "05/21/2000",
+    "Duration": "6:44",
+    "Purpose": "Resecure and reorient U.S. crane.  Assemble complete Russian crane and transfer from PMA 2 to PMA 1.  Replace stbd ECOM antenna.  Install 8 handrails on Node 1 (APAS cable blocked one nominal site).  Cables cleared from Node 1 SVS targets. Lost PAD"
+  },
+  {
+    "EVA #": 96,
+    "Country": "USA",
+    "Crew": "Edward Lu              Yuri Malenchecko",
+    "Vehicle": "STS-106/2A.2b",
+    "Date": "09/11/2000",
+    "Duration": "6:14",
+    "Purpose": "SM docking target deployment completed manually.  Attitude control magnetometer and nearby translation aid gap spanner installed.  SM-FGB cables routed, secured and connected (EPS, TV-C&DH and Orlan comm).   Photos captured of partially deployed SM solar array section to aid future resolution."
+  },
+  {
+    "EVA #": 97,
+    "Country": "USA",
+    "Crew": "Leroy Chiao               Bill McArthur",
+    "Vehicle": "STS-92/3A",
+    "Date": "10/15/2000",
+    "Duration": "6:28",
+    "Purpose": "Z1 SASA antenna deployed.  DDCU thermal shrouds removed/stowed. One tool box relocated from PLB to Z1.  Z1-Node1 cables mated.  SGANT antenna dish and boom deployed."
+  },
+  {
+    "EVA #": 98,
+    "Country": "USA",
+    "Crew": "Jeff Wisoff                Mike Lopez-Alegria",
+    "Vehicle": "STS-92/3A",
+    "Date": "10/16/2000",
+    "Duration": "7:07",
+    "Purpose": "PMA3 released from PLB.  PMA3-Node1 cables mated."
+  },
+  {
+    "EVA #": 99,
+    "Country": "USA",
+    "Crew": "Leroy Chiao               Bill McArthur",
+    "Vehicle": "STS-92/3A",
+    "Date": "10/17/2000",
+    "Duration": "6:48",
+    "Purpose": "Z1 DDCU-HP (2) transferred from PLB to Z1.  Z1 keel relocated.  Z1-P6 launch locks released.  PMA2-Z1 cables reconfigured.  2nd tool box relocated from PLB to Z1.  Airlock depress valve cover lost"
+  },
+  {
+    "EVA #": 100,
+    "Country": "USA",
+    "Crew": "Jeff Wisoff              Mike Lopez-Alegria",
+    "Vehicle": "STS-92/3A",
+    "Date": "10/18/2000",
+    "Duration": "6:56",
+    "Purpose": "Z1 FRGF stowed and utility tray deployed.  Tethered demo of self rescue SAFER hardware (DTO 689)."
+  },
+  {
+    "EVA #": 101,
+    "Country": "USA",
+    "Crew": "Joe Tanner         Carlos Noriega",
+    "Vehicle": "STS-97/4A",
+    "Date": "12/03/2000",
+    "Duration": "7:33",
+    "Purpose": "Assisted P6-Z1 mechanical mating.  Mated 9 Z1-P6 electrical power cables. Released 2 sets of solar array blanket boxes and gimbal linkages.  Used tensioning devices to secure 3 of 4 gimbal linkage bolts.  Released PV radiator launch restraints and thermal sensors."
+  },
+  {
+    "EVA #": 102,
+    "Country": "USA",
+    "Crew": "Joe Tanner         Carlos Noriega",
+    "Vehicle": "STS-97/4A",
+    "Date": "12/05/2000",
+    "Duration": "6:37",
+    "Purpose": "Removed/stowed Z1's ACBSP and DDCU-HP thermal shrouds.  Relocated SASA antenna from Z1 to IEA.  Inspected tensioning mechanism of incompletely deployed solar array.  Rerouted Z1 patch panel cables.  Mated 4 Z1-P6 ammonia lines.  Disconnected PMA2 cables from Node1.  Stowed EPS cable bag on P6.  Released P6 aft radiator launch restraints and thermal sensors.  Installed FGB-PMA1 jumper cables.  Stowed Z1 WIS antenna #1."
+  },
+  {
+    "EVA #": 103,
+    "Country": "USA",
+    "Crew": "Joe Tanner         Carlos Noriega",
+    "Vehicle": "STS-97/4A",
+    "Date": "12/07/2000",
+    "Duration": "5:10",
+    "Purpose": "Reseated solar array tensioning cable to allow full deployment.  Installed FPP antennas on IEA and Node1. Installed Node1 centerline camera cable.  Released P6 stbd radiator launch restraints and thermal sensors.  Stowed P6 and Z1 WIS antennas."
+  },
+  {
+    "EVA #": 104,
+    "Country": "USA",
+    "Crew": "Tom Jones             Bob Curbeam",
+    "Vehicle": "STS-98/5A",
+    "Date": "02/10/2001",
+    "Duration": "7:34",
+    "Purpose": "Disconnect lab-Shuttle LTA heater cable.  Remove and stow lab module CBM cover.  Connect 4 ammonia lines and elec cables btw lab and Z1.   M3 QD leaked NH3 on crew to force bakeout cleanup"
+  },
+  {
+    "EVA #": 105,
+    "Country": "USA",
+    "Crew": "Tom Jones             Bob Curbeam",
+    "Vehicle": "STS-98/5A",
+    "Date": "02/12/2001",
+    "Duration": "6:50",
+    "Purpose": "Connect lab-PMA2 APAS cables.  Install lab vent valve, trunnion pin covers, handrails, PDGF, VSC and window cover.  Wrong bolt heads on vent cover"
+  },
+  {
+    "EVA #": 106,
+    "Country": "USA",
+    "Crew": "Tom Jones             Bob Curbeam",
+    "Vehicle": "STS-98/5A",
+    "Date": "02/14/2001",
+    "Duration": "5:25",
+    "Purpose": "Spare SASA antenna installed on Z1.  Demo of incapacitated crew rescue."
+  },
+  {
+    "EVA #": 107,
+    "Country": "USA",
+    "Crew": "Jim Voss                 Susan Helms",
+    "Vehicle": "STS-102/5A.1",
+    "Date": "03/10/2001",
+    "Duration": "8:56",
+    "Purpose": "Disconnected PMA3 from Node1 electrical cables.  Installed cradle on lab in prep for SSRMS and S0 truss.  Installed rigid umbilical.  Last 2 hours spent in airlock waiting on RMS install of MPLM.  PAD lost"
+  },
+  {
+    "EVA #": 108,
+    "Country": "USA",
+    "Crew": "Paul Richards       Andy Thomas",
+    "Vehicle": "STS-102/5A.1",
+    "Date": "03/12/2001",
+    "Duration": "6:21",
+    "Purpose": "Removed and stowed port early comm antenna.  Installed the external stowage platform on a lab trunnion.  Transfered a pump flow control system ORU ready for future replacement.  Inspected P6 solar array 4 bar linkage, FPP, NPV and connector J612"
+  },
+  {
+    "EVA #": 109,
+    "Country": "USA",
+    "Crew": "Scott Parazynski       Chris Hadfield",
+    "Vehicle": "STS-100/6A",
+    "Date": "04/22/2001",
+    "Duration": "7:10",
+    "Purpose": "Transfered and installed UHF antenna on lab.  Released SSRMS launch restraints, unfold booms and secure joints.  Connected cables from lab to SSRMS pallet for initial robot arm ops"
+  },
+  {
+    "EVA #": 110,
+    "Country": "USA",
+    "Crew": "Scott Parazynski       Chris Hadfield",
+    "Vehicle": "STS-100/6A",
+    "Date": "04/24/2001",
+    "Duration": "7:40",
+    "Purpose": "Connected 8 cables for lab based SSRMS ops.  Demated cables btw lab and SSRMS pallet.  Removed and stowed stbd early comm antenna.  1.5 hours spent in fruitless search for early comm conn parts under CBM cover.  Transfered spare DCSU to lab stowage pallet"
+  },
+  {
+    "EVA #": 111,
+    "Country": "USA",
+    "Crew": "Mike Gernhardt          Jim Reilly",
+    "Vehicle": "STS-104/7A",
+    "Date": "07/14/2001",
+    "Duration": "5:59",
+    "Purpose": "Shuttle based EVA.  Airlock-Node1 CBM cover removed.  LTA heater cable demated.  Waited on umbilicals for airlock transfer and install by SSRMS. Connected airlock heater cable."
+  },
+  {
+    "EVA #": 112,
+    "Country": "USA",
+    "Crew": "Mike Gernhardt          Jim Reilly",
+    "Vehicle": "STS-104/7A",
+    "Date": "07/17/2001",
+    "Duration": "6:29",
+    "Purpose": "Shuttle based EVA.  3 of 4 high pressure gas tanks installed on airlock"
+  },
+  {
+    "EVA #": 113,
+    "Country": "USA",
+    "Crew": "Mike Gernhardt          Jim Reilly",
+    "Vehicle": "STS-104/7A",
+    "Date": "07/20/2001",
+    "Duration": "4:02",
+    "Purpose": "First EVA based from ISS joint airlock.  4th high pressure gas tank installed.  Installed thermal cover over airlock FRGF and several airlock handrails.  Mated FGB-airlock cable for Russian suit comm.  Inspected BMRRM and FPP on top of P6."
+  },
+  {
+    "EVA #": 114,
+    "Country": "USA",
+    "Crew": "Dan Barry             Patrick Forrester",
+    "Vehicle": "STS-105/7A.1",
+    "Date": "08/16/2001",
+    "Duration": "6:16",
+    "Purpose": "Shuttle based EVA.  Installed early ammonia servicer on P6 truss and mated its cables.  Attached 2 MISSE materials experiments to airlock exterior."
+  },
+  {
+    "EVA #": 115,
+    "Country": "USA",
+    "Crew": "Dan Barry             Patrick Forrester",
+    "Vehicle": "STS-105/7A.1",
+    "Date": "08/18/2001",
+    "Duration": "5:29",
+    "Purpose": "Shuttle based EVA.  Installed 10 handrails on Lab.  Attached LTA heater cables on lab for later use with S0."
+  },
+  {
+    "EVA #": 116,
+    "Country": "USA",
+    "Crew": "Linda Godwin         Dan Tani",
+    "Vehicle": "STS-108/UF1",
+    "Date": "12/10/2001",
+    "Duration": "4:12",
+    "Purpose": "Shuttle based EVA.  Installed 2 beta gimbal assy (BGA) thermal blankets.  Retrieved SASA shroud.  Inspected DCSU.  Failed attempt to lock 4th leg of BGA four bar assembly."
+  },
+  {
+    "EVA #": 257,
+    "Country": "Russia",
+    "Crew": "Vladimir Titov          Musa Manarov",
+    "Vehicle": "Soyuz TM-4    Mir",
+    "Date": "",
+    "Duration": "4:12",
+    "Purpose": "Complete replacement of telescope detector module, use new Orlan DMAÂs"
+  },
+  {
+    "EVA #": 117,
+    "Country": "USA",
+    "Crew": "Carl Walz                 Dan Bursch",
+    "Vehicle": "Incr-4",
+    "Date": "02/20/2002",
+    "Duration": "5:49",
+    "Purpose": "First use of the Quest airlock without Shuttle docked.  8A preps included tool retrieval/relocation, DDCU checkout, Z1 Shroud removal, Grapple Fixture Adapter removal, securing HPGT latches, photos of MISSE & MMOD hits."
+  },
+  {
+    "EVA #": 118,
+    "Country": "USA",
+    "Crew": "John Grunsfeld      Rick Linnehan",
+    "Vehicle": "STS-109/          HST-3B",
+    "Date": "03/04/2002",
+    "Duration": "7:01",
+    "Purpose": "HST servicing.  Replaced 1 of 2 solar arrays and its diode box."
+  },
+  {
+    "EVA #": 119,
+    "Country": "USA",
+    "Crew": "Jim Newman             Mike Massimino",
+    "Vehicle": "STS-109/          HST-3B",
+    "Date": "03/05/2002",
+    "Duration": "7:16",
+    "Purpose": "HST servicing.  Replaced 2nd solar array and its diode box.   Replaced gyro reaction wheel assy #1."
+  },
+  {
+    "EVA #": 120,
+    "Country": "USA",
+    "Crew": "John Grunsfeld      Rick Linnehan",
+    "Vehicle": "STS-109/          HST-3B",
+    "Date": "03/06/2002",
+    "Duration": "6:48",
+    "Purpose": "HST servicing.  Replaced power control unit (PCU).  HST handrails inspected."
+  },
+  {
+    "EVA #": 121,
+    "Country": "USA",
+    "Crew": "Jim Newman             Mike Massimino",
+    "Vehicle": "STS-109/          HST-3B",
+    "Date": "03/07/2002",
+    "Duration": "7:30",
+    "Purpose": "HST servicing.  Replaced faint object camera (FOC) with advanced camera.  Installed electronics support module in aft shroud.  Completed PCU cleanup."
+  },
+  {
+    "EVA #": 122,
+    "Country": "USA",
+    "Crew": "John Grunsfeld      Rick Linnehan",
+    "Vehicle": "STS-109/          HST-3B",
+    "Date": "03/08/2002",
+    "Duration": "7:20",
+    "Purpose": "HST servicing.  Installed NICMOS cryo cooler and radiator.   Installed new outer thermal blankets."
+  },
+  {
+    "EVA #": 123,
+    "Country": "USA",
+    "Crew": "Steve Smith            Rex Walheim",
+    "Vehicle": "STS-110/8A",
+    "Date": "04/11/2002",
+    "Duration": "7:48",
+    "Purpose": "ISS based EVA.  Lab-SO cables connected.  Aft tray req'd 2 crew to deploy.   Lab-S0 fwd struts installed."
+  },
+  {
+    "EVA #": 124,
+    "Country": "USA",
+    "Crew": "Jerry Ross               Lee Morin",
+    "Vehicle": "STS-110/8A",
+    "Date": "04/13/2002",
+    "Duration": "7:30",
+    "Purpose": "ISS based EVA.  Lab-SO cables connected.  Lab-S0 aft struts installed."
+  },
+  {
+    "EVA #": 125,
+    "Country": "USA",
+    "Crew": "Steve Smith            Rex Walheim",
+    "Vehicle": "STS-110/8A",
+    "Date": "04/14/2002",
+    "Duration": "6:27",
+    "Purpose": "ISS based EVA.  Released Lab-S0 adapter latch.  Connected MT cables.  Released MT launch restraints.  Removed MT radiator cover.  TUS 2 safing bolt problem."
+  },
+  {
+    "EVA #": 126,
+    "Country": "USA",
+    "Crew": "Jerry Ross               Lee Morin",
+    "Vehicle": "STS-110/8A",
+    "Date": "04/16/2002",
+    "Duration": "6:37",
+    "Purpose": "ISS based EVA.  Installed S0-airlock handrail spur.  Installed handrails and 2 CETA lights on S0.  Deployed CETA energy absorbers.  Removed/stowed S0 keel and drag link.  J400 reconfigured.  CID 7/8 installed.  Failed Trace Gas Analyzer DTO."
+  },
+  {
+    "EVA #": 127,
+    "Country": "USA",
+    "Crew": "F. Chang-Diaz       Philippe Perrin",
+    "Vehicle": "STS-111/UF2",
+    "Date": "06/09/2002",
+    "Duration": "7:14",
+    "Purpose": "ISS based EVA.  PDGF installed on P6.  SM MMOD panels stowed on PMA1.  MBS blankets removed as prep for MBS install onto MT."
+  },
+  {
+    "EVA #": 128,
+    "Country": "USA",
+    "Crew": "F. Chang-Diaz       Philippe Perrin",
+    "Vehicle": "STS-111/UF2",
+    "Date": "06/11/2002",
+    "Duration": "5:00",
+    "Purpose": "ISS based EVA.  MT-MBS cables connected and MT-MBS bolts mated.  POA deployed.  Zenith TUS safing bolt.  MBS camera relocated."
+  },
+  {
+    "EVA #": 129,
+    "Country": "USA",
+    "Crew": "F. Chang-Diaz       Philippe Perrin",
+    "Vehicle": "STS-111/UF2",
+    "Date": "06/13/2002",
+    "Duration": "7:16",
+    "Purpose": "ISS based EVA.  SSRMS wrist joint replaced.  Failed joint stowed on Shuttle."
+  },
+  {
+    "EVA #": 130,
+    "Country": "USA",
+    "Crew": "Dave Wolf            Piers Sellers",
+    "Vehicle": "STS-112/9A",
+    "Date": "10/10/2002",
+    "Duration": "7:01",
+    "Purpose": "ISS based EVA.  S1-S0 cables and fluid lines connected.  S-band antenna deployed.  S1 radiator restraints released.  CETA cart launch locks released.  S1 camera installed."
+  },
+  {
+    "EVA #": 131,
+    "Country": "USA",
+    "Crew": "Dave Wolf            Piers Sellers",
+    "Vehicle": "STS-112/9A",
+    "Date": "10/12/2002",
+    "Duration": "6:04",
+    "Purpose": "ISS based EVA.  Lab camera installed.  S1 radiator restraints released.  S1-S0 cables and fluid lines connected.   SPD installed at Z1-P6.  CETA cart launch locks released.  NH3 tank cables attached."
+  },
+  {
+    "EVA #": 132,
+    "Country": "USA",
+    "Crew": "Dave Wolf            Piers Sellers",
+    "Vehicle": "STS-112/9A",
+    "Date": "10/14/2002",
+    "Duration": "6:36",
+    "Purpose": "ISS based EVA.  MT IUA replaced.  S0-S1 NH3 jumpers connected.  S1-S0 cables and fluid lines connected.   S1 drag link stowed.  SPD's installed on NH3 lines."
+  },
+  {
+    "EVA #": 133,
+    "Country": "USA",
+    "Crew": "Mike Lopez-Alegria    John Herrington",
+    "Vehicle": "STS-113/11A",
+    "Date": "11/26/2002",
+    "Duration": "6:45",
+    "Purpose": "ISS based EVA.  P1-S0 cables connected.  CETA cart launch locks released.  P1 drag link stowed.   Spool positioning devices (SPD) installed.  Wireless external transceiver assy (WETA) installed on Node 1 for EVA helmet video."
+  },
+  {
+    "EVA #": 134,
+    "Country": "USA",
+    "Crew": "Mike Lopez-Alegria    John Herrington",
+    "Vehicle": "STS-113/11A",
+    "Date": "11/28/2002",
+    "Duration": "6:10",
+    "Purpose": "ISS based EVA.  P1-S0 fluid lines connected.  P1 keels stowed.  Wireless external transceiver assy (WETA) installed on P1.  CETA cart relocated from P1 to S1."
+  },
+  {
+    "EVA #": 135,
+    "Country": "USA",
+    "Crew": "Mike Lopez-Alegria    John Herrington",
+    "Vehicle": "STS-113/11A",
+    "Date": "11/30/2002",
+    "Duration": "7:00",
+    "Purpose": "ISS based EVA.  SPD's installed.  MBSU cables reconfigured.  NH3 tank lines attached.  UHF antenna deployed (MT ran into stowed UHF antenna resulting in early deploy).  SO DDCU cover installed."
+  },
+  {
+    "EVA #": 136,
+    "Country": "USA",
+    "Crew": "Ken Bowersox       Don Pettit",
+    "Vehicle": "Incr-6",
+    "Date": "01/15/2003",
+    "Duration": "6:51",
+    "Purpose": "ISS based EVA.  Removed debris from Node nadir CBM.  Released P1 truss radiator launch locks (10) to allow deploy.  Failed to install CETA light on S1 (jammed in launch bracket).  Measured the Early Ammonia Servicer (EAS) reservoir.  Retrieved tools from Z1 and airlock tool boxes for future.  Cut away thermal cover strap that delayed EVA by interferring with airlock hatch."
+  },
+  {
+    "EVA #": 137,
+    "Country": "USA",
+    "Crew": "Ken Bowersox       Don Pettit",
+    "Vehicle": "Incr-6",
+    "Date": "04/08/2003",
+    "Duration": "6:26",
+    "Purpose": "ISS based EVA.  Reconfigured SO, S1 and P1 cables for future trusses.  Inspected P1 NTA.  Released S1 CETA light stanchion w/Russian hammer and installed one light.  Installed Lab HX spool positioning devices (SPDÂs).  Rerouted cables for redundant power to CMG #2.  Reinstalled S1 radiator beam valve module (RBVM) thermal cover.   Replaced MT RPCM 3A.  Retrieved NH3 tank cap.  Removed tools from Node bag.  Stowed APFR ingress aid on CETA 2 WIF 4."
+  },
+  {
+    "EVA #": 138,
+    "Country": "USA",
+    "Crew": "Soichi Noguchi       Steve Robinson",
+    "Vehicle": "STS-114/LF1",
+    "Date": "07/30/2005",
+    "Duration": "6:50",
+    "Purpose": "Shuttle based EVA.  Demonstrated repairs of Shuttle thermal protection (tile emittance wash and NOAX on RCC cracks).  Installed External Stowage Platform Attachment Device (ESPAD) outside ISS airlock.  Replaced GPS antenna and retrieved 2 MISSE experiments.  Photographed damaged thermal blanket under Orbiter window"
+  },
+  {
+    "EVA #": 139,
+    "Country": "USA",
+    "Crew": "Soichi Noguchi       Steve Robinson",
+    "Vehicle": "STS-114/LF1",
+    "Date": "08/01/2005",
+    "Duration": "7:14",
+    "Purpose": "Shuttle based EVA.  Replaced ISS CMG#1.  Stowed old CMG in PLB .  Retrieved/relocated tools for next EVA (handle for ISS thermal radiator rotary joint motor controller, forceps for tile gap filler removal, a foot restraint from ISS robotic arm)"
+  },
+  {
+    "EVA #": 140,
+    "Country": "USA",
+    "Crew": "Soichi Noguchi       Steve Robinson",
+    "Vehicle": "STS-114/LF1",
+    "Date": "08/03/2005",
+    "Duration": "6:01",
+    "Purpose": "Shuttle based EVA.  Attached External Stowage Platform (ESP2) to ISS, removed/returned ESP2's grapple fixture, installed ISS solar cell exposure experiment MISSE 5, opened/closed sample lid to enable robotic survey of thermal protection samples and removed two Shuttle tile gap fillers.  Inspected/photographed solar beta gimbal assembly restraint bolts and floating potential probe."
+  },
+  {
+    "EVA #": 141,
+    "Country": "USA",
+    "Crew": "Bill McArthur        Valeri Tokarev",
+    "Vehicle": "Incr-12",
+    "Date": "11/07/2005",
+    "Duration": "5:22",
+    "Purpose": "ISS based EVA.  Egress delayed by 1 hr due to overlooked valve.  Installed P1 TV camera, removed S1 thermal rotary joint motor controller, jettisoned P6 floating potential probe and replaced RPCM of mobile transporter.  Relocated safety tethers and foot restraint as prep for future work.  Camera lens bumper lost overboard.  One of two helmets TVs inoperable."
+  },
+  {
+    "EVA #": 142,
+    "Country": "USA",
+    "Crew": "Piers Sellers    Mike Fossum",
+    "Vehicle": "STS-121 / ULF1.1",
+    "Date": "07/08/2006",
+    "Duration": "7:31",
+    "Purpose": "ISS based EVA.  Installed cable cutter blade blocker on mobile transporter zenith interface umbilical assembly (IUA).  Demonstrated use of RMS and boom as EV crew work platform for Shuttle thermal protection repairs"
+  },
+  {
+    "EVA #": 143,
+    "Country": "USA",
+    "Crew": "Piers Sellers    Mike Fossum",
+    "Vehicle": "STS-121 / ULF1.1",
+    "Date": "07/10/2006",
+    "Duration": "6:47",
+    "Purpose": "ISS based EVA.  Replaced the mobile transporter's nadir IUA and trailing umbilical cable reel.  Stowed thermal system spare pump on ISS airlock pallet.  SAFER latches found unsecured"
+  },
+  {
+    "EVA #": 144,
+    "Country": "USA",
+    "Crew": "Piers Sellers    Mike Fossum",
+    "Vehicle": "STS-121 / ULF1.1",
+    "Date": "07/12/2006",
+    "Duration": "7:11",
+    "Purpose": "ISS based EVA.  Tested NOAX repairs on samples of Shuttle RCC thermal protection.  Tested infrared camera on ISS radiators and Shuttle RCC.  Installed grapple fixture on S1 truss ammonia tank.  RCC repair spatula lost overboard."
+  },
+  {
+    "EVA #": 145,
+    "Country": "USA",
+    "Crew": "Jeff Williams       Thomas Reiter",
+    "Vehicle": "Incr-13",
+    "Date": "08/03/2006",
+    "Duration": "5:54",
+    "Purpose": "ISS based EVA.  Installed floating point measurement unit on S1.  Installed MISSE 3 &4 on airlock.  Installed RJMC and replaced radiator MDM on S1.  Installed S0 radiator line shunt jumpers (2) and fluid disconnect spool positioning devices (3).  Tested infrared camera on RCC samples. Installed CETA light on S1 (connector cap lost) and nonpropulsive valve on Lab.  Removed GPS antenna #2.  Setup 3 foot restraints for 12A.  Retrieved ball stack restraint.  Photographed hatch scratch.  One of two helmets TVs inoperable."
+  },
+  {
+    "EVA #": 146,
+    "Country": "USA",
+    "Crew": "Joe Tanner      Heide Stefanyshyn-Piper",
+    "Vehicle": "STS-115/12A",
+    "Date": "09/12/2006",
+    "Duration": "6:26",
+    "Purpose": "ISS based EVA.  Connected the P1/P3 lower and upper tray umbilicals.  Released solar array launch restraints and positioned the stowed arrays for automated deployment.  Rotated P4 truss keel pin to stowed position.  Removed of 2 of 16 solar array joint launch locks, deployed all 4 solar array joint braces and removed 2 avionics thermal shrouds.  Lost a small bolt/spring and washer during launch lock cover work."
+  },
+  {
+    "EVA #": 147,
+    "Country": "USA",
+    "Crew": "Dan Burbank       Steve MacLean",
+    "Vehicle": "STS-115/12A",
+    "Date": "09/13/2006",
+    "Duration": "7:11",
+    "Purpose": "ISS based EVA.  Removed solar array alpha joint launch locks and restraints.  Lost a bolt from a launch lock cover.  Release of one launch restraint bolt required a wrench cheater bar and both crew for leverage.  Cleared items to permit P3 truss access by the ISS mobile transporter for future assembly work.  Secured the velcro of a partially loose thermal cover on P3 truss.  Removed 2 avionics thermal shrouds and relocated 2 foot restraints."
+  },
+  {
+    "EVA #": 148,
+    "Country": "USA",
+    "Crew": "Joe Tanner      Heide Stefanyshyn-Piper",
+    "Vehicle": "STS-115/12A",
+    "Date": "09/15/2006",
+    "Duration": "6:42",
+    "Purpose": "ISS based EVA.  Retrieved MISSE-5 experiment.  Installed bolt retainers on the P6 beta gimbal struts.  Unable to engage hinge lock on P6 beta gimbal strut.  Freed snagged tether from mobile transporter.  Release P4 radiator launch restraints.  Set up two foot restraints for 12A.1.  Released bolt torques of P4 MMOD cover.  Replaced S-band antenna and upgraded electronics.  Installed thermal shield on Ku-band antenna electronics.  IR camera imagery of Shuttle wing leading edge.  Due to time on Sband antenna, ran out of time for lab wireless antenna and and ISS radiator IR imagery"
+  },
+  {
+    "EVA #": 149,
+    "Country": "USA",
+    "Crew": "Robert Curbeam   Christer Fuglesang",
+    "Vehicle": "STS-116/12A.1",
+    "Date": "12/12/2006",
+    "Duration": "6:36",
+    "Purpose": "ISS based EVA.  Removed launch locks from the P5 truss.  Aided alignment and secured the P5 truss to the P4 truss.  Relocated a radiator grapple fixture.  Replaced a failed camera on the S1 truss (13A prep).  Performed 13A assembly get-ahead tasks (P5 electrical connections, latch opening, 2 of 4 outboard launch locks).  Lost removal socket tool overboard"
+  },
+  {
+    "EVA #": 150,
+    "Country": "USA",
+    "Crew": "Robert Curbeam   Christer Fuglesang",
+    "Vehicle": "STS-116/12A.1",
+    "Date": "12/14/2006",
+    "Duration": "5:00",
+    "Purpose": "ISS based EVA.  Reconfigured electrical cables of power channels 2 and 3 and Z1 patch panel.  Relocated both CETA carts (13A prep).  Installed insulation on the force moment sensors of ISS robotic arm.  Installed 4 bags containing fluid line and pump module servicing equipment."
+  },
+  {
+    "EVA #": 151,
+    "Country": "USA",
+    "Crew": "Robert Curbeam   Sunita Williams",
+    "Vehicle": "STS-116/12A.1",
+    "Date": "12/16/2006",
+    "Duration": "7:31",
+    "Purpose": "ISS based EVA.  Reconfigured electrical cables of power channels 1 and 4, Z1 patch panel and Russian power.  Transfered Service Module MMOD protection panels to PMA3.  Installed the grapple fixture on spare flex hose rotary coupler.  Manually aided retraction of the P6 port solar array-completion deferred to next EVA.  Lost still camera overboard"
+  },
+  {
+    "EVA #": 152,
+    "Country": "USA",
+    "Crew": "Robert Curbeam   Christer Fuglesang",
+    "Vehicle": "STS-116/12A.1",
+    "Date": "12/18/2006",
+    "Duration": "6:38",
+    "Purpose": "ISS based EVA.  Manually aided full retract of P6 port solar array.  Inspected P6 stbd solar array.  Adjusted new insulation of SSRMS force sensors"
+  },
+  {
+    "EVA #": 153,
+    "Country": "USA",
+    "Crew": "Mike Lopez-Alegria    Sunita Williams",
+    "Vehicle": "Incr-14",
+    "Date": "01/31/2007",
+    "Duration": "7:55",
+    "Purpose": "ISS based EVA.  Established permanent configuration of the electrical and fluid lines of the loop A thermal system.  Secured and covered the stowed P6 stbd radiator. Relocated 1 of 2 ammonia servicer jumpers.  NH3 leakage induced bakeout and contamination sensing.   Installed ISS to Shuttle power transfer cables between Lab and Z1.  Installed handrail gap spanners on P6."
+  },
+  {
+    "EVA #": 154,
+    "Country": "USA",
+    "Crew": "Mike Lopez-Alegria    Sunita Williams",
+    "Vehicle": "Incr-14",
+    "Date": "02/04/2007",
+    "Duration": "7:11",
+    "Purpose": "ISS based EVA.  Established permanent configuration of the electrical and fluid lines of the loop B thermal system.  NH3 leakage induced bakeout and contamination sensing.  Relocated ammonia servicer jumper.  Secured the stowed P6 aft radiator.  Retrieved an MDM thermal shade.  Installed ISS to Shuttle power transfer cables between Lab and PMA2.  Retrieved a foot restraint for in-cabin thermal shield removal.  Photographed P6 solar array in prep for retraction."
+  },
+  {
+    "EVA #": 170,
+    "Country": "USA",
+    "Crew": "Peggy Whitson       Dan Tani",
+    "Vehicle": "Incr-16",
+    "Date": "11/20/2007",
+    "Duration": "7:16",
+    "Purpose": "ISS based EVA.  Installed stbd thermal cooling lines on Node 2.  Connected elec cables to PMA2.  Lost wiretie overboard and EV2 biomed signal failed"
+  },
+  {
+    "EVA #": 155,
+    "Country": "USA",
+    "Crew": "Mike Lopez-Alegria    Sunita Williams",
+    "Vehicle": "Incr-14",
+    "Date": "02/08/2007",
+    "Duration": "6:40",
+    "Purpose": "ISS based EVA.  Removed and jettisoned 4 thermal shrouds. Deployed P3 cargo attachment site  Removed last 2 launch locks from the P5 truss. Finished installation of ISS to Shuttle power transfer cables and reinstalled an in-cabin reconfigured foot restraint.  Photoed PMA2 docked audio connector."
+  },
+  {
+    "EVA #": 175,
+    "Country": "USA",
+    "Crew": "Rex Walheim             Hans Schlegel",
+    "Vehicle": "STS-122/1E",
+    "Date": "02/13/2008",
+    "Duration": "6:45",
+    "Purpose": "ISS based EVA.  Replaced nitrogen tank on P1 truss and installed old tank on Shuttle for earth return.  Installed trunnion covers on Columbus"
+  },
+  {
+    "EVA #": 156,
+    "Country": "USA",
+    "Crew": "Jim Reilly        Danny Olivas",
+    "Vehicle": "STS-117/13A",
+    "Date": "06/11/2007",
+    "Duration": "6:15",
+    "Purpose": "ISS based EVA.  Connected electrical lines btw S1 and S3/S4 trusses.  Unstowed solar array blanket boxes and beta gimbals.  Stowed the S3/S4 keel.   Removed and jettisoned thermal shrouds from 5 avionics boxes.  Released restraints for S4 radiator deployment.  Engaged drive lock, removed 6 launch locks and rigidized struts of S4 solar array alpha joint.  Removed SVS target to clear MT path"
+  },
+  {
+    "EVA #": 157,
+    "Country": "USA",
+    "Crew": "Pat Forrester         Steve Swanson",
+    "Vehicle": "STS-117/13A",
+    "Date": "06/13/2007",
+    "Duration": "7:16",
+    "Purpose": "ISS based EVA.  Aided retraction of enough bays of P6 solar array to permit alpha joint rotation.  Removed 10 of 16 launch locks, deloyed braces and engaged drive lock of S3 solar array alpha joint"
+  },
+  {
+    "EVA #": 158,
+    "Country": "USA",
+    "Crew": "Danny Olivas         Jim Reilly",
+    "Vehicle": "STS-117/13A",
+    "Date": "06/15/2007",
+    "Duration": "7:58",
+    "Purpose": "ISS based EVA.  Replaced vent valve on Lab for US O2 generator.  Secured loose thermal blanket on Shuttle OMS pod.  Finished retracting P6 solar array"
+  },
+  {
+    "EVA #": 159,
+    "Country": "USA",
+    "Crew": "Pat Forrester           Steve Swanson",
+    "Vehicle": "STS-117/13A",
+    "Date": "06/17/2007",
+    "Duration": "6:29",
+    "Purpose": "ISS based EVA.  Opened H2 vent for new US O2 generator.  Installed video camera stand.  Verified drive lock config and removed 6 launch restraints of the S3 solar array alpha joint.   Stowed S3 drag link and keel pin.  Released S4 MMOD shield bolts.  Cleared MT path.  Installed FGB-Node1 local area network cable, but had to subsitute tether hooks for several MMOD shield fasteners.  Relocated foot restraint and removed handrail near Node 1 nadir port"
+  },
+  {
+    "EVA #": 160,
+    "Country": "USA",
+    "Crew": "Clay Anderson      Fyodor Yurchikhin",
+    "Vehicle": "Incr-15",
+    "Date": "07/23/2007",
+    "Duration": "7:41",
+    "Purpose": "ISS based EVA.  Installed a video camera stand and jettisoned its stowage restraints.  Replaced a failed RPCM to restore mobile transporter power redundancy.  Jettisoned the early ammonia servicer.  Cleaned the Node1 berthing mechanism seal.  Relocated the P6 aux bag to Z1, removed failed GPS antenna #4 and released Node 2 fluid tray bolts."
+  },
+  {
+    "EVA #": 161,
+    "Country": "USA",
+    "Crew": "Rick Mastracchio        Dave Williams",
+    "Vehicle": "STS-118/13A.1",
+    "Date": "08/11/2007",
+    "Duration": "6:17",
+    "Purpose": "ISS based EVA.  Installed the S5 truss and connected S4-S5 electrical lines.  Relocated the radiator grapple fixture on S5.  Removed S5-S6 launch locks on S5 and opened the S5-S6 capture latch.  Secured the auto retracted P6 radiator."
+  },
+  {
+    "EVA #": 162,
+    "Country": "USA",
+    "Crew": "Rick Mastracchio      Dave Williams",
+    "Vehicle": "STS-118/13A.1",
+    "Date": "08/13/2007",
+    "Duration": "6:28",
+    "Purpose": "ISS based EVA.  Replaced failed CMG 3 and stowed failed unit on pallet outside ISS airlock for return on future Shuttle mission.  Photographed MISSE 3 & 4 experiments."
+  },
+  {
+    "EVA #": 163,
+    "Country": "USA",
+    "Crew": "Rick Mastracchio      Clay Anderson",
+    "Vehicle": "STS-118/13A.1",
+    "Date": "08/15/2007",
+    "Duration": "5:28",
+    "Purpose": "ISS based EVA.  Relocated the S-band antenna from P6 to P1 and installed new signal processor and transponder on P1.  Retrieved P6 transponder.  Relocated CETA carts.  Damaged glove terminated EVA early."
+  },
+  {
+    "EVA #": 164,
+    "Country": "USA",
+    "Crew": "Dave Williams     Clay Anderson",
+    "Vehicle": "STS-118/13A.1",
+    "Date": "08/18/2007",
+    "Duration": "5:02",
+    "Purpose": "ISS based EVA.  Installed the Orbiter inspection boom restraints on S1.  Engaged S-band antenna gimbal locks on Z1.  Retrieved MISSE 3&4 experiments.  Installed antennas for external wireless sensors on Lab"
+  },
+  {
+    "EVA #": 165,
+    "Country": "USA",
+    "Crew": "Scott Parazynski     Doug Wheelock",
+    "Vehicle": "STS-120/10A",
+    "Date": "10/26/2007",
+    "Duration": "6:14",
+    "Purpose": "ISS based EVA.  Stowed old S-band antenna in Shuttle for return.  Released launch power cable from Node 2 and temp secured grapple fixture on Node 2.  Resecured Node 2 window cover that opened during launch.  Demated Z1-P6 fluid lines and covered stowed radiator and avionics box on P6.  Did post EVA ammonia cleanup for minor leak during fluid line demating.  One gloved NO GO after EVA due to cut damage."
+  },
+  {
+    "EVA #": 166,
+    "Country": "USA",
+    "Crew": "Scott Parazynski     Dan Tani",
+    "Vehicle": "STS-120/10A",
+    "Date": "10/28/2007",
+    "Duration": "6:33",
+    "Purpose": "ISS based EVA.  Demated Z1 to P6 umbilicals and attachment bolts.  Installed Node 2 EVA aids (handrails, foot restraint sockets, slidewire).  Removed all Node 2 berthing mechanism pins, but lost one pin within cover.  Confirmed handrail on CETA cart not source of glove damage.  Inspected starboard solar array alpha joint and collected sample of metallic debris on tape.  Both still cameras and one suit earphone failed.  Configure S1 radiator release cable for deployment and main bus switching unit for P6 startup.  Installed all 4 bolts for Node 2 grapple fixture."
+  },
+  {
+    "EVA #": 167,
+    "Country": "USA",
+    "Crew": "Scott Parazynski     Doug Wheelock",
+    "Vehicle": "STS-120/10A",
+    "Date": "10/30/2007",
+    "Duration": "7:08",
+    "Purpose": "ISS based EVA.  Connected 4 bolts and 4 cables to mate P6 to P5.  Inspected port solar array alpha joint and found no issues.  Removed solar array avionics thermal shroud.  Released P6 radiator restraints to permit deployment.  Reconfigured P1 radiator cabling for deploy.  Relocated spare MBSU to ISS.  Retrieved N2 vent tool, relocated vent tool bag and installed 1 of 4 S0 gap spanners.  Left a camera outside accidently.  One suit and one glove determined NO GO post EVA due to sublimator degraded and thermal garment damage"
+  },
+  {
+    "EVA #": 168,
+    "Country": "USA",
+    "Crew": "Scott Parazynski     Doug Wheelock",
+    "Vehicle": "STS-120/10A",
+    "Date": "11/03/2007",
+    "Duration": "7:19",
+    "Purpose": "ISS based EVA.  Inspected and repaired damaged P6 solar array and supported full deployment.  Installed 5 \"cuff links\" as reinforcements for separated panel hinges.  Cut frayed snagged hinge and guide wires.  Retrieved 2 foot restraints with suspect sharp edges for IVA inspect/correct.  Retrieved camera left out by prior EVA.  Pliers lost."
+  },
+  {
+    "EVA #": 169,
+    "Country": "USA",
+    "Crew": "Peggy Whitson       Yuri Malenchenko",
+    "Vehicle": "Incr-16",
+    "Date": "11/09/2007",
+    "Duration": "6:55",
+    "Purpose": "ISS based EVA.  Prepared PMA2 for relocation to Node 2.  Demated electrical cables, removed light on Lab and removed thermal cover from Node 2 fwd port.  Connected power/data cables for Node 2 grapple fixture.  Connected power cable for service module power.  Replaced failed RPCM.  Reconfigured FGB-PMA1 jumpers.  Retrieved S-band signal processor.  Relocated ammonia vent tool bag on airlock.  Unable to install Node 2 handrail.  Wore overgloves for sharp edge protection"
+  },
+  {
+    "EVA #": 171,
+    "Country": "USA",
+    "Crew": "Peggy Whitson       Dan Tani",
+    "Vehicle": "Incr-16",
+    "Date": "11/24/2007",
+    "Duration": "7:04",
+    "Purpose": "ISS based EVA.  Installed port thermal cooling lines on Node 2.  Connected elec cables to PMA2.  Inspected and photoed stbd solar array joint"
+  },
+  {
+    "EVA #": 172,
+    "Country": "USA",
+    "Crew": "Peggy Whitson       Dan Tani",
+    "Vehicle": "Incr-16",
+    "Date": "12/18/2007",
+    "Duration": "6:56",
+    "Purpose": "ISS based EVA.  Inspected stbd solar array alpha and beta joints.  No obvious causes found for rotation issues.  Retrieved 1 trundle bearing from alpha joint for in-cabin and ground assessments."
+  },
+  {
+    "EVA #": 173,
+    "Country": "USA",
+    "Crew": "Peggy Whitson       Dan Tani",
+    "Vehicle": "Incr-16",
+    "Date": "01/30/2008",
+    "Duration": "7:10",
+    "Purpose": "ISS based EVA.  Replaced failed solar array beta gimbal unit and inspected alpha joint"
+  },
+  {
+    "EVA #": 174,
+    "Country": "USA",
+    "Crew": "Rex Walheim        Stan Love",
+    "Vehicle": "STS-122/1E",
+    "Date": "02/11/2008",
+    "Duration": "7:58",
+    "Purpose": "ISS based EVA.  Enabled Columbus installation (demated STS heater cables, installed grapple fixture, removed window & berthing mech covers) and began prep of nitrogen tank transfer by loosening bolts.  Accidently found possible source of cut gloves on airlock handrail (MMOD impact)"
+  },
+  {
+    "EVA #": 176,
+    "Country": "USA",
+    "Crew": "Rex Walheim        Stan Love",
+    "Vehicle": "STS-122/1E",
+    "Date": "02/15/2008",
+    "Duration": "7:25",
+    "Purpose": "ISS based EVA.  Installed 2 ESA science experiments, 9 handrails, 2 foot restraint sockets and keel pin cover on Columbus.  Transfered failed CMG for Shuttle return.  \nPhotographed sharp edge on airlock handrail"
+  },
+  {
+    "EVA #": 177,
+    "Country": "USA",
+    "Crew": "Rick Linnehan            Garrett Reisman",
+    "Vehicle": "STS-123/1JA",
+    "Date": "",
+    "Duration": "7:01",
+    "Purpose": "ISS based EVA.  Enabled installation of Japanese logisics module by demating heater cables and removed berthing mechanism covers.  Installed tool devices on Canadian SPDM robot arms.  Marked sharp edge on airlock handrail with wiretie and found 2nd sharp edge on portable handle"
+  },
+  {
+    "EVA #": 178,
+    "Country": "USA",
+    "Crew": "Rick Linnehan           Mike Foreman",
+    "Vehicle": "STS-123/1JA",
+    "Date": "",
+    "Duration": "7:08",
+    "Purpose": "ISS based EVA.  Installed both arms on Canadian SPDM robot.  Had to use prybar to release 2 expandable dia fasteners"
+  },
+  {
+    "EVA #": 179,
+    "Country": "USA",
+    "Crew": "Rick Linnehan              Robert Behnken",
+    "Vehicle": "STS-123/1JA",
+    "Date": "",
+    "Duration": "6:53",
+    "Purpose": "ISS based EVA. Installed cameras, lights and tool and spares holders on SPDM.  Removed all but a few blankets from SPDM.  Readied SPDM's spacelab pallet for return via Shuttle.  Transferred spares from Shuttle to ISS (robotic yaw joint, 2 DCSU).  Installed experiment pallet on Columbus.  Unable to install MISSE experiments on pallet due to blocked pip pin hole."
+  },
+  {
+    "EVA #": 180,
+    "Country": "USA",
+    "Crew": "Robert Behnken           Mike Foreman",
+    "Vehicle": "STS-123/1JA",
+    "Date": "",
+    "Duration": "6:24",
+    "Purpose": "ISS based EVA.  Replaced failed RPCM to permit separate power to CMG2, but not able to demate elec connector of Z1 patch panel to enable power reconfig.  Tested Shuttle tile repair materials, tools and techniques.  Released launch locks of Node 2 nadir and port berth mech.  Removed last thermal cover from SPDM hand.  Did not find previously missing berth mech pip pin.  While restowing MMOD damaged portable handle outside Z1 truss, additional MMOD impacts were found on Z1 tool box"
+  },
+  {
+    "EVA #": 181,
+    "Country": "USA",
+    "Crew": "Robert Behnken           Mike Foreman",
+    "Vehicle": "STS-123/1JA",
+    "Date": "03/22/2008",
+    "Duration": "6:02",
+    "Purpose": "ISS based EVA.  Stowed Shuttle inspection boom on ISS S1 truss with keep alive power.  Installed trundle bearing on stbd solar array alpha joint and completed inspections under joint covers.  Installed MISSE experiments on pallet outside Columbus (1 reqd light hammering of pip pins).  Trunnion covers installed on Japanese module. Cutters stowed in airlock tool box"
+  },
+  {
+    "EVA #": 182,
+    "Country": "USA",
+    "Crew": "Mike Fossum      Ron Garan",
+    "Vehicle": "STS-124/1J",
+    "Date": "06/03/2008",
+    "Duration": "6:48",
+    "Purpose": "ISS based EVA. Released special launch restraint of elbow camera of Shuttle robotic arm. Demated Shuttle inspection boom from ISS truss to permit return/use. Prepared Japanese module for install by demating cables from Shuttle, removing berthing mech covers and releasing window locks. Worked on damaged solar array joint by reinstalling trundle bearing, confirming divot and demonstrating cleaning and lubrication. Verified cargo latch ops on mobile transporter. Removed solar array joint launch restraint."
+  },
+  {
+    "EVA #": 183,
+    "Country": "USA",
+    "Crew": "Mike Fossum      Ron Garan",
+    "Vehicle": "STS-124/1J",
+    "Date": "06/05/2008",
+    "Duration": "7:11",
+    "Purpose": "ISS based EVA. Installed 2 cameras for JEM robot arm op.  Removed thermal covers from JEM arm.  Prepped JEM berthing mech for stowage module relocation (remove cover, release launch restraints, eliminate insulation interference).  Installed JEM trunnion and keep pin covers.  Prepped for N2 tank replacement.  Retrieved failed camera from truss. Inspected port solar array joint (wear and grease buildup as during past inspection but no metal shavings)."
+  },
+  {
+    "EVA #": 184,
+    "Country": "USA",
+    "Crew": "Mike Fossum      Ron Garan",
+    "Vehicle": "STS-124/1J",
+    "Date": "06/08/2008",
+    "Duration": "6:33",
+    "Purpose": "ISS based EVA. Replaced N2 tank on S1 truss.  Reinstalled repaired truss camera.  Finished JEM interfaces (window launch locks, berthing mech MMOD shields, robotic arm insulation/launch lock). Sampled port solar array joint contamination.  Removed stbd solar array joint launch restraint"
+  },
+  {
+    "EVA #": 185,
+    "Country": "USA",
+    "Crew": "Heide Stefanyshyn-Piper                                       Steve Bowen",
+    "Vehicle": "STS-126/ULF2",
+    "Date": "11/18/2008",
+    "Duration": "6:52",
+    "Purpose": "ISS based EVA. Empty N2 tank transferred to Shuttle.  Spare flex hose rotary coupler relocated to ISS.  Thermal covers removed from JEM ext facility berthing mechanism.  Initiated cleaning and lube of stbd SARJ.  2 stbd SARJ trundle bearings replaced and 1 removed.  Lost bag of SARJ cleaning/lube tools overboard.  As bonus, removed SARJ launch restraint, closed Node 2 hatch cover and retrieved spare trash bag from tool box"
+  },
+  {
+    "EVA #": 201,
+    "Country": "USA",
+    "Crew": "Chris Cassidy       Tom Marshburn",
+    "Vehicle": "STS-127/2JA",
+    "Date": "07/27/2009",
+    "Duration": "4:54",
+    "Purpose": "ISS based EVA.  Adjusted SPDM thermal covers.  Reconfiged elec connectors of Z1 patch panel to restore CMG pwr redundancy.  Installed two JEM external facility video cameras.  Installed JEM handrail, foot restraint socket and gap spanner. Relocated a foot restraint.  Due to high use dry out of CO2 can, lacked time to deploy S3 pallet"
+  },
+  {
+    "EVA #": 186,
+    "Country": "USA",
+    "Crew": "Heide Stefanyshyn-Piper                  Shane Kimbrough",
+    "Vehicle": "STS-126/ULF2",
+    "Date": "11/20/2008",
+    "Duration": "6:45",
+    "Purpose": "ISS based EVA. Relocated both CETA carts from stbd to port truss to prep for S6 truss assy on next STS flt.  Continued replacement of cleaning/lube of stbd solar array joint and replacement of trundle bearings.  Overtightened one new trundle bearing and had to use spare.  Lubed end effector snares of ISS robotic arm.  Reconfigured connectors of port truss attach system bolt controller and photoed suspect area of mobile transporter umbilical. Tasks ended early due to higher than expected work rate for regenerable C02 canister"
+  },
+  {
+    "EVA #": 187,
+    "Country": "USA",
+    "Crew": "Heide Stefanyshyn-Piper                                       Steve Bowen",
+    "Vehicle": "STS-126/ULF2",
+    "Date": "11/22/2008",
+    "Duration": "6:57",
+    "Purpose": "ISS based EVA. Replaced all of the remaining stbd trundle bearings except one.  Cleaned and lubed stbd race ring."
+  },
+  {
+    "EVA #": 188,
+    "Country": "USA",
+    "Crew": "Steve Bowen                       Shane Kimbrough",
+    "Vehicle": "STS-126/ULF2",
+    "Date": "11/24/2008",
+    "Duration": "6:07",
+    "Purpose": "ISS based EVA. Lubricated port SARJ race ring.  Replaced last trundle bearing on stbd SARJ.  Retracted failed latch of JEM ext facility berth mech and installed covers.  For HTV, installed 1 of 2 GPS antennas on JEM logistics module for HTV and a camera on P1 truss.  Tasks ended early due to higher than expected work rate for regenerable C02 canister (same prior crewmember)"
+  },
+  {
+    "EVA #": 189,
+    "Country": "USA",
+    "Crew": "Steve Swanson   Richard Arnold",
+    "Vehicle": "STS-119/15A",
+    "Date": "03/19/2009",
+    "Duration": "6:07",
+    "Purpose": "ISS based EVA. Bolted S6 to S5 truss and mated electrical cables.  Stowed X6 keel pin, deployed solar array linkages (1 of 4 latches did not engage), removed/jettisoned avionics thermal covers, released radiator restraints and removed blanket box restraints.  Deployed S6 avionics MMOD shield"
+  },
+  {
+    "EVA #": 190,
+    "Country": "USA",
+    "Crew": "Steve Swanson         Joseph Acaba",
+    "Vehicle": "STS-119/15A",
+    "Date": "03/21/2009",
+    "Duration": "6:30",
+    "Purpose": "ISS based EVA. Loosened restraints of P6 batteries for future replacement.  Unable to fully deploy P3 interface for future ORU spares (adj diameter pin suspect).  Due to time, deferred S3 payload attach sys deploy.  Due to elec conn demate failure, deferred Z1 patch panel reconfig for CMG pwr.  Installed JEM GPS antenna.  Took infrared images of P1 & S1 radiators"
+  },
+  {
+    "EVA #": 256,
+    "Country": "Russia",
+    "Crew": "Vladimir Titov          Musa Manarov",
+    "Vehicle": "Soyuz TM-4    Mir",
+    "Date": "06/30/1988",
+    "Duration": "5:10",
+    "Purpose": "Replace Xray telescope detector module"
+  },
+  {
+    "EVA #": 191,
+    "Country": "USA",
+    "Crew": "Richard Arnold      Joseph Acaba",
+    "Vehicle": "STS-119/15A",
+    "Date": "03/23/2009",
+    "Duration": "6:27",
+    "Purpose": "ISS based EVA. Relocated one CETA cart from port to stbd side of mobile transporter.  Again unable to finish deploy of P3 spares attach sys.  Again deferred S3 payload attach deploy and Z1 patch panel reconfig.  Lubed robotic arm end effector snares, replaced CETA cart coupler, reconfigured elec conns of truss attach bolts and freed clamps of flex hose rotary coupler.  Suit CO2 sensor failed and SAFER handcontroller door accidently opened"
+  },
+  {
+    "EVA #": 192,
+    "Country": "USA",
+    "Crew": "John Grunsfeld      Andrew Feustel",
+    "Vehicle": "STS-125/HST 4",
+    "Date": "05/14/2009",
+    "Duration": "7:20",
+    "Purpose": "HST servicing.  Replaced wide field camera (after high torque time consuming bolt release) and science computer.  Installed soft capture mechanism for future automated disposal mission.  Installed 2 of 3 bolt/latch mechanisms on large doors (after difficulties with alignments)."
+  },
+  {
+    "EVA #": 193,
+    "Country": "USA",
+    "Crew": "Mike Massimino                Mike Good",
+    "Vehicle": "STS-125/HST 4",
+    "Date": "05/15/2009",
+    "Duration": "7:56",
+    "Purpose": "HST servicing.  Replaced 3 of 3 gyro packages and 1st group of 3 batteries.  Tolerance issue forced installation of 1 non-optimum but adequate spare gyro.  Difficulty closing doors to gyro bay."
+  },
+  {
+    "EVA #": 194,
+    "Country": "USA",
+    "Crew": "John Grunsfeld      Andrew Feustel",
+    "Vehicle": "STS-125/HST 4",
+    "Date": "05/16/2009",
+    "Duration": "6:36",
+    "Purpose": "HST servicing.  Replaced COSTAR with cosmic origins spectrograph (COS).  Repaired failed advanced camera for surveys (ACS) with removal of 4 detector circuit boards and installation of new power supply and new detector circuit boards"
+  },
+  {
+    "EVA #": 195,
+    "Country": "USA",
+    "Crew": "Mike Massimino                Mike Good",
+    "Vehicle": "STS-125/HST 4",
+    "Date": "05/17/2009",
+    "Duration": "8:02",
+    "Purpose": "HST servicing.  Repaired failed space telescope imaging spectrograph (STIS) with new power supply board.  Time lost to stuck handrail bolt and failed power tool battery.  Ran out of time to install new outer blanket (NOBL) #8."
+  },
+  {
+    "EVA #": 196,
+    "Country": "USA",
+    "Crew": "John Grunsfeld      Andrew Feustel",
+    "Vehicle": "STS-125/HST 4",
+    "Date": "05/18/2009",
+    "Duration": "7:02",
+    "Purpose": "HST servicing.  Installed 2nd/last group of batteries.  Replaced fine guidance sensor (FGS).  Installed NOBLs 8, 5 and 7 (lots of loose debris with 2nd).  Reinstalled low gain antenna cover to permanently protect exposed antenna parts after tip accidently broken off during equipment cleanup"
+  },
+  {
+    "EVA #": 197,
+    "Country": "USA",
+    "Crew": "Dave Wolf              Tim Kopra",
+    "Vehicle": "STS-127/2JA",
+    "Date": "07/18/2009",
+    "Duration": "5:32",
+    "Purpose": "ISS based EVA. Aided JEM exposed facility install by jettisoning berthing mech covers and removing launch heater cable.  Aided spares pallet transfer by removing launch heater cable.  Removed JEM robot arm ground tab.  Opened Node 1 & 2 berthing camera blankets as prep for PMA3 relocate and HTV arrival.  Reconfig port CETA cart outfitting and rail stop to avoid interferences.  Deployed external pallet site on P3 using special detent tool (S3 pallet deploy deferred).  Removed cover from JEM MAXI experiment.  Released NH3 tank bolt as prep for replace.  Installed 2 of 6 ground connector sleeves for Shuttle to ISS power transfer sys"
+  },
+  {
+    "EVA #": 198,
+    "Country": "USA",
+    "Crew": "Dave Wolf          Tom Marshburn",
+    "Vehicle": "STS-127/2JA",
+    "Date": "07/20/2009",
+    "Duration": "6:52",
+    "Purpose": "ISS based EVA.  Transfered 3 large spares to ISS.  Installed grapple bar on P1 ammonia tank as prep for future replace.  Installed 2 of 6 ground connector sleeves for Shuttle to ISS power transfer sys.  Comm cap perf poor due to sweat"
+  },
+  {
+    "EVA #": 199,
+    "Country": "USA",
+    "Crew": "Dave Wolf         Chris Cassidy",
+    "Vehicle": "STS-127/2JA",
+    "Date": "07/22/2009",
+    "Duration": "5:59",
+    "Purpose": "ISS based EVA.  Relocated foot restraint socket for HTV arrival prep. Prepped 3 payloads for robotic install outside JEM. Installed 2 of 6 ground connector sleeves for Shuttle to ISS power transfer sys.  Replaced 2 batteries on P6 truss and stowed 2 old batts in Shuttle for return. Stopped early due to suit CO2 increase induced by high work rate"
+  },
+  {
+    "EVA #": 200,
+    "Country": "USA",
+    "Crew": "Chris Cassidy       Tom Marshburn",
+    "Vehicle": "STS-127/2JA",
+    "Date": "07/24/2009",
+    "Duration": "7:12",
+    "Purpose": "ISS based EVA.  Replaced 4 batteries on P6 truss and stowed old batts in Shuttle for return."
+  },
+  {
+    "EVA #": 202,
+    "Country": "USA",
+    "Crew": "Danny Olivas        Nicole Stott",
+    "Vehicle": "STS-128/17A",
+    "Date": "09/01/2009",
+    "Duration": "6:35",
+    "Purpose": "ISS based EVA.  Removed NH3 tank from P1 and temp stowed.  Transferred MISSE 6a/b & EuTEF experiments to Shuttle"
+  },
+  {
+    "EVA #": 203,
+    "Country": "USA",
+    "Crew": "Danny Olivas           Christer Fugelsang",
+    "Vehicle": "STS-128/17A",
+    "Date": "09/03/2009",
+    "Duration": "6:39",
+    "Purpose": "ISS based EVA.  Start delayed to redo prebreathe after comm cap readjust.  Installed new NH3 tank on P1 and stowed old tank on Shuttle.  Installed grapple bar on S1 NH3 tank.  Unable to connect PMA3 heater cables due to prior incorrect clocking of PMA3.  Installed camera lens covers on station arm as prep for HTV.  Relocated a tool stanchion"
+  },
+  {
+    "EVA #": 204,
+    "Country": "USA",
+    "Crew": "Danny Olivas           Christer Fugelsang",
+    "Vehicle": "STS-128/17A",
+    "Date": "09/05/2009",
+    "Duration": "7:01",
+    "Purpose": "ISS based EVA.  Deployed S3 zenith pallet.  Replaced failed rate gyro #2 and RPCM on S0.  Installed 2 GPS antennas.  Removed Node1 slidewire as prep for Node3.  Installed two S0-Node3 cables (one connector unable to mate).  Helmet TV camera/lights almost lost overboard due to bumped latches"
+  },
+  {
+    "EVA #": 205,
+    "Country": "USA",
+    "Crew": "Mike Foreman      Robert Satcher",
+    "Vehicle": "STS-129/ULF3",
+    "Date": "11/19/2009",
+    "Duration": "6:37",
+    "Purpose": "ISS based EVA.  Installed spare Sband antenna and cables for spare Kuband antenna.  Prepped for Node3 install (replace handrail w/ NH3 line bracket).  Lubricated end effectors of mobile transporter payload base and JEM robot arm.  Installed FGB-Node1 network cable.  Deployed S3 payload attach structure"
+  },
+  {
+    "EVA #": 206,
+    "Country": "USA",
+    "Crew": "Mike Foreman      Randy Bresnick",
+    "Vehicle": "STS-129/ULF3",
+    "Date": "11/21/2009",
+    "Duration": "6:08",
+    "Purpose": "ISS based EVA.  Installed ham radio antennas on Columbus.  Relocated floating potential measure unit from S1 to P1. Deployed the last two payload attach structures and installed wireless video transcvr (all on S3).  Retrieved foot restraint for cabin reconfig and relocated tool stanchion.  Photographed suspect seals on Node 2 berth mechanism"
+  },
+  {
+    "EVA #": 207,
+    "Country": "USA",
+    "Crew": "Robert Satcher          Randy Bresnick",
+    "Vehicle": "STS-129/ULF3",
+    "Date": "11/23/2009",
+    "Duration": "5:42",
+    "Purpose": "ISS based EVA.  Start delayed by detached drink bag valve. Relocated some airlock MMOD shields and installed O2 tank outside US airlock. Installed MISSE experiments 7A & 7B on external logistics carrier. Released bolt on NH3 tank. Installed thermal covers on mobile base and two fluid jumpers. Relocated a foot restraint"
+  },
+  {
+    "EVA #": 208,
+    "Country": "USA",
+    "Crew": "Bob Behnken       Nick Patrick",
+    "Vehicle": "STS-130/20A",
+    "Date": "",
+    "Duration": "6:32",
+    "Purpose": "ISS based EVA.  Prepared Node 3 for ISS install by removing covers and heater cables.  Prepositioned ammonia lines and thermal covers.  Installed Node 3 avionics and heater cables.  Removed/stowed the SPDM ORU Temporary Platform (OTP).  Relocated NH3 jumper bag and released tape restraining Node 3 gap spanners.  One suit fan degraded slightly"
+  },
+  {
+    "EVA #": 209,
+    "Country": "USA",
+    "Crew": "Bob Behnken       Nick Patrick",
+    "Vehicle": "STS-130/20A",
+    "Date": "",
+    "Duration": "5:53",
+    "Purpose": "ISS based EVA.  Outfitted Node 3 by installing 2 NH3 lines, heater cables, trunnion/keel thermal covers, negative pressure vent, handrail gap spanners and 8 handrails.  Opened loop A NH3 line and nadir berthing mechanism pedals and centerline camera thermal cover.  Visually verified berthing seals OK.  Small NH3 leak induced suit bakeout.  Comm degraded on one suit"
+  },
+  {
+    "EVA #": 210,
+    "Country": "USA",
+    "Crew": "Bob Behnken       Nick Patrick",
+    "Vehicle": "STS-130/20A",
+    "Date": "",
+    "Duration": "5:48",
+    "Purpose": "ISS based EVA.  Connected PMA3 heater and data cables.  Opened loop B NH3 line.  Disconnected Node 3 temp heater cable.  Removed Cupola thermal covers and released launch locks of window shutters  Installed Node 3 handrails, foot restraint sockets and a handrail gap spanner.  Routed FGB grapple fixture video cable.  Closed Node 2 zenith centerline berthing camera flap"
+  },
+  {
+    "EVA #": 211,
+    "Country": "USA",
+    "Crew": "Rick Mastracchio          Clayton Anderson",
+    "Vehicle": "STS-131/19A",
+    "Date": "04/09/2010",
+    "Duration": "6:28",
+    "Purpose": "ISS based EVA.  Temp stowed new NH3 tank on ISS robot arm.  Retrieved JAXAA's MPAC/SEED experiment for return.  Replaced rate gyro assembly #1. Relocated a foot restraint socket extender.  Removed P1 flex hose rotary coupler launch restraint bolts and released cable clamps.  Tightened grapple fixture attachment bolts of old NH3 tank as prep for return to Shuttle"
+  },
+  {
+    "EVA #": 212,
+    "Country": "USA",
+    "Crew": "Rick Mastracchio          Clayton Anderson",
+    "Vehicle": "STS-131/19A",
+    "Date": "04/11/2010",
+    "Duration": "7:26",
+    "Purpose": "ISS based EVA.  Removed old NH3 tank and temp stowed on CETA cart.  Overcame a troublesome bolt and installed new NH3 tank/cables.  Installed 2 radiator grapple beams and relocated a foot restraint"
+  },
+  {
+    "EVA #": 213,
+    "Country": "USA",
+    "Crew": "Rick Mastracchio          Clayton Anderson",
+    "Vehicle": "STS-131/19A",
+    "Date": "04/13/2010",
+    "Duration": "6:24",
+    "Purpose": "ISS based EVA.  Finished installing new NH3 tank (fluid lines).  Stowed old NH3 tank (despite a balky bolt) and airlock MMOD shields for Shuttle return.  Relocated grapple fixture from old tank to new tank.  As prep for next Shuttle flt, relocated foot restraint and prepped cables for spare Sband antenna"
+  },
+  {
+    "EVA #": 214,
+    "Country": "USA",
+    "Crew": "Garrett Reisman       Steve Bowen",
+    "Vehicle": "STS-132/ULF4",
+    "Date": "05/17/2010",
+    "Duration": "7:25",
+    "Purpose": "ISS based EVA.  Installed an operational spare Ku antenna boom and dish on Z1.  Installed ORU holder on SPDM.  Loosened bolts on new batteries for P6"
+  },
+  {
+    "EVA #": 215,
+    "Country": "USA",
+    "Crew": "Steve Bowen           Michael Good",
+    "Vehicle": "STS-132/ULF4",
+    "Date": "05/19/2010",
+    "Duration": "7:09",
+    "Purpose": "ISS based EVA.  Unsnagged cable of orbiter inspection boom sensor.  Replaced 4 batteries on P6.  Finished bolting Ku antenna dish to boom and releasing launch locks"
+  },
+  {
+    "EVA #": 216,
+    "Country": "USA",
+    "Crew": "Garrett Reisman       Michael Good",
+    "Vehicle": "STS-132/ULF4",
+    "Date": "05/21/2010",
+    "Duration": "6:46",
+    "Purpose": "ISS based EVA.  Installed NH3 jumper on port truss.  Replaced 2 batteries on P6.  Transferred grapple fixture to ISS for later install on FGB."
+  },
+  {
+    "EVA #": 217,
+    "Country": "USA",
+    "Crew": "Doug Wheellock Tracy Caldwell Dyson",
+    "Vehicle": "Incr-24",
+    "Date": "08/07/2010",
+    "Duration": "8:03",
+    "Purpose": "ISS based EVA.  Demated 3 of 4 NH3 connectors from failed coolant pump, but the 4th leaked and was left installed.  Ended work to do suit decontamination. EV2 CO2 sensor failed"
+  },
+  {
+    "EVA #": 218,
+    "Country": "USA",
+    "Crew": "Doug Wheellock Tracy Caldwell Dyson",
+    "Vehicle": "Incr-24",
+    "Date": "08/11/2010",
+    "Duration": "7:26",
+    "Purpose": "ISS based EVA.  After remote cmds reduced upstream pressure, demated 4th NH3 connector and then demated electrical connectors.  Installed grapple fixture, unbolted old pump, temp stowed it and then demated electrical connectors of new pump"
+  },
+  {
+    "EVA #": 219,
+    "Country": "USA",
+    "Crew": "Doug Wheellock Tracy Caldwell Dyson",
+    "Vehicle": "Incr-24",
+    "Date": "08/16/2010",
+    "Duration": "7:20",
+    "Purpose": "ISS based EVA.  Installed new coolant pump and stowed support equipment.  Connected CETA carts to mobile transporter for unobstructed remote cmd translation."
+  },
+  {
+    "EVA #": 220,
+    "Country": "USA",
+    "Crew": "Steve Bowen           Alvin Drew",
+    "Vehicle": "STS-133/ULF5",
+    "Date": "02/28/2011",
+    "Duration": "6:34",
+    "Purpose": "ISS based EVA.  Installed backup power cable for new stowage module.  Relocated failed pump module and prepped it for NH3 venting to enable future return.  Repositioned Z1 truss RPCM thermal blanket and an EVA foot restraint socket extension.  Retrieved foot restraint for incabin maintenance.  Added wedge to S1 camera for clearance with nearby logistics carrier.  Enabled MT and CETA cart translation past stbd solar array joint by installing rail extensions and removing stops.  Collected vacuum in JAXA experiment bottle."
+  },
+  {
+    "EVA #": 221,
+    "Country": "USA",
+    "Crew": "Steve Bowen           Alvin Drew",
+    "Vehicle": "STS-133/ULF5",
+    "Date": "03/02/2011",
+    "Duration": "6:14",
+    "Purpose": "ISS based EVA.  Late start due to suit leak from damaged CO2 can O-ring.  Vented NH3 from failed pump module enabling future return. Retrieved tool stowage bags used in past pump replacement.  Installed light on port CETA cart, camera on SPDM robot and 3 camera lens covers.  Repositioned camera sunshade for clear view.  Resecured loose radiator grapple beam. Retrieved pallet with MISSE data for return.  Removed thermal insulation from several locations.  Reinstalled foot restraint and relocated another. Relocated Strela grapple fixture adapter to FGB.  Early end due to partly detached helmet lights."
+  },
+  {
+    "EVA #": 222,
+    "Country": "USA",
+    "Crew": "Andrew Feustel   Greg Chamitoff",
+    "Vehicle": "STS-134/ULF6",
+    "Date": "05/20/2011",
+    "Duration": "6:19",
+    "Purpose": "ISS based EVA.  Retrieved MISSE 7.  Installed MISSE 8, light on S3, stbd SARJ cover and port truss NH3 jumper (for radiator leak topoff). Vented N2 from port NH3 servicer lines and disconnected line across SARJ for overnight motions.  Mechanically installed 2 payload wireless antennas on Lab, but did not finish connecting all cables under MMOD shields due to suit CO2 transducer failure that shortened task time.  Setup NH3 vent tool bag for next EVA. EV2 biomed data lost early and topped off suit O2 due to high metabolic use rate."
+  },
+  {
+    "EVA #": 223,
+    "Country": "USA",
+    "Crew": "Andrew Feustel   Mike Fincke",
+    "Vehicle": "STS-134/ULF6",
+    "Date": "05/22/2011",
+    "Duration": "8:07",
+    "Purpose": "ISS based EVA.  Reconnected fill line, refilled P6 radiator NH3, vented refill lines and disconnected line across SARJ.  Did suit solar bakeout due to suspected NH2 leak from disconnect. Lubricated 1/3 of port SARJ (lost 1 bolt & 3 washers from joint covers, one cover returned to airlock due to too few remaining bolts) and SPDM end effector.  Installed SPDM camera cover and 2 stbd radiator grapple bar stowage beams"
+  },
+  {
+    "EVA #": 224,
+    "Country": "USA",
+    "Crew": "Andrew Feustel   Mike Fincke",
+    "Vehicle": "STS-134/ULF6",
+    "Date": "05/25/2011",
+    "Duration": "6:54",
+    "Purpose": "ISS based EVA.  Installed FGB PDGF/stand, video signal conditioner and a portion of associated cables.  Installed cables for backup power from US to Russian segment.  Finished installing cables under MMOD shields for 2 payload wireless antennas.  Installed thermal blanket on airlock O2 tank grapple fixture.  Infrared video of AirForce aerogel thermal insulation experiment.  Std photos of FGB PDGF and nearby FGB thrusters.  Resecured velcro of loose thermal insulation on external spare.  Antifog temporarily irritated EV1 eye"
+  },
+  {
+    "EVA #": 225,
+    "Country": "USA",
+    "Crew": "Mike Fincke    Greg Chamitoff",
+    "Vehicle": "STS-134/ULF6",
+    "Date": "05/27/2011",
+    "Duration": "7:24",
+    "Purpose": "ISS based EVA.  Permanently stowed orbiter inspection boom on ISS to expand future EVA/robotic reach for maint.  Removed P6 PDGF and installed on orbiter boom in place of EFGF to enable SSRMS handling.  Released expandable diam fasteners of spare SPDM arm.  EV2 topped off suit O2.  Took photos of DOD experiments."
+  },
+  {
+    "EVA #": 226,
+    "Country": "USA",
+    "Crew": "Ron Garan           Mike Fossum",
+    "Vehicle": "ISS-Incr 28 during STS-135/ULF7",
+    "Date": "07/12/2011",
+    "Duration": "6:31",
+    "Purpose": "ISS based EVA.  Transfered failed 1400lb pump module from ISS to Shuttle for return.  Transfered GSFC's satellite robotic refueling demo unit from Shuttle to ISS.  Add MISSE 8's ORMATE optical mirror experiment to ISS. As getaheads, installed PMA3 thermal cover, repositioned FGB PDGF's obstructing ground wire under thermal insulation and retrieved cutter for next Russian EVA"
+  },
+  {
+    "EVA #": 227,
+    "Country": "USA",
+    "Crew": "Sunita Williams        Akihiko Hoshide",
+    "Vehicle": "ISS-Incr 32",
+    "Date": "08/30/2012",
+    "Duration": "8:17",
+    "Purpose": "ISS based EVA.  Installed 1 of 2 power cables for future MLM use.  Removed and stowed failed MBSU.  Unable to install new MBSU and left it tied down. Contaminated sublimator plate reduced cooling at end of EVA and led to suit declared no-go for future"
+  },
+  {
+    "EVA #": 228,
+    "Country": "USA",
+    "Crew": "Sunita Williams        Akihiko Hoshide",
+    "Vehicle": "ISS-Incr 32",
+    "Date": "09/05/2012",
+    "Duration": "6:28",
+    "Purpose": "ISS based EVA.  Removed MBSU after releasing alignment sensitive bolt.  Photographed, inspected, cleaned and lubricated mechanical bolts and receptacles.  Ran spare bolt in and out of receptacle to smooth threads.  Using basic manual wrench for alignment touch, MBSU was bolted down.  Failed SSRMS camera replaced."
+  },
+  {
+    "EVA #": 229,
+    "Country": "USA",
+    "Crew": "Sunita Williams        Akihiko Hoshide",
+    "Vehicle": "ISS-Incr 32",
+    "Date": "11/01/2012",
+    "Duration": "6:38",
+    "Purpose": "Bypassed coolant system ammonia leak with jumper connections and backup radiator deployment.  Inspected solar array joint for cause of recent increase in friction."
+  },
+  {
+    "EVA #": 230,
+    "Country": "USA",
+    "Crew": "Chris Cassidy        Tom Marshburn",
+    "Vehicle": "ISS Incr-35",
+    "Date": "05/11/2013",
+    "Duration": "5:31",
+    "Purpose": "Replaced P6 truss pump flow control system box due to leak in coolant system.  Stowed old unit.  Performed precautionary ammonia bakeout."
+  },
+  {
+    "EVA #": 231,
+    "Country": "USA",
+    "Crew": "Chris Cassidy        Luca Parmitano",
+    "Vehicle": "ISS Incr-36",
+    "Date": "07/09/2013",
+    "Duration": "6:07",
+    "Purpose": "Replaced failed Ku antenna avionics.  Retrieved 2 materials exposure experiments.  Took photos of contaminated radiator of AMS.  Installed 2 radiator grapple bars.  Routed MLM power cable to FGB.  Removed failed camera of mobile transporter.  Installed PMA2 MMOD cover, Z1 bypass jumper power cables and MLM data cable.  Cleared ground wire obstructing FGB PDGF"
+  },
+  {
+    "EVA #": 232,
+    "Country": "USA",
+    "Crew": "Chris Cassidy        Luca Parmitano",
+    "Vehicle": "ISS Incr-36",
+    "Date": "07/16/2013",
+    "Duration": "1:32",
+    "Purpose": "EVA terminated early due to free water in EV2's helmet.  Completed install of Z1 bypass jumper cable and FGB PDGF data cable.  Partially routed MLM data cable."
+  },
+  {
+    "EVA #": 233,
+    "Country": "Russia",
+    "Crew": "Alexei Leonov",
+    "Vehicle": "Voskhod 2",
+    "Date": "",
+    "Duration": "0:12",
+    "Purpose": "WorldÂs first EVA, Berkut umbilical suit, Volga inflatable airlock.  Had to partially reduce suit pressure to turnaround in airlock and close hatch"
+  },
+  {
+    "EVA #": 234,
+    "Country": "Russia",
+    "Crew": "Aleksei Yeliseyov        Yevgeni Khrunov",
+    "Vehicle": "Soyuz 4&5",
+    "Date": "",
+    "Duration": "0:37",
+    "Purpose": "New airlock, Yastreb self-contained life support suit, vehicle-vehicle EVA crew transfer.  Lost camera"
+  },
+  {
+    "EVA #": 235,
+    "Country": "Russia",
+    "Crew": "Victor Lazerov            Oleg Makarov",
+    "Vehicle": "Soyuz 12",
+    "Date": "",
+    "Duration": "0:00",
+    "Purpose": "New Orlan D suits checked out inside cabin"
+  },
+  {
+    "EVA #": 236,
+    "Country": "Russia",
+    "Crew": "Yuri Romanenko    Georgi Grechko",
+    "Vehicle": "Soyuz 26    Salyut 6",
+    "Date": "",
+    "Duration": "1:28",
+    "Purpose": "Docking unit inspection. Tested new Orlan D suits.  G. saves R. from untethered loss out of airlock.  Both always attached via umbilicals??"
+  },
+  {
+    "EVA #": 237,
+    "Country": "Russia",
+    "Crew": "Vladimir Kovalyonok     Alexandr Ivanchenkov",
+    "Vehicle": "Soyuz 29      Salyut 6",
+    "Date": "07/29/1978",
+    "Duration": "2:05",
+    "Purpose": "Replace scientific samples, test new suits"
+  },
+  {
+    "EVA #": 238,
+    "Country": "Russia",
+    "Crew": "Vladimir Lyakhov       Valeri Ryumin",
+    "Vehicle": "Soyuz 32       Salyut 6",
+    "Date": "08/15/1979",
+    "Duration": "1:23",
+    "Purpose": "Free damaged/jammed 10m diameter KRT-10 antenna with cable cutters, forked stick and boot"
+  },
+  {
+    "EVA #": 239,
+    "Country": "Russia",
+    "Crew": "Anatoli Berezovsky      Valentin Lebedev",
+    "Vehicle": "Soyuz T-5     Salyut 7",
+    "Date": "07/30/1982",
+    "Duration": "2:33",
+    "Purpose": "Replace scientific equipment, remove ISTOK-2 exposed materials/structure.  Improved Orlan D suit used."
+  },
+  {
+    "EVA #": 240,
+    "Country": "Russia",
+    "Crew": "Vladimir Lyakhov     Alexandr Alexandrov",
+    "Vehicle": "Soyuz T-9       Salyut 7",
+    "Date": "",
+    "Duration": "2:49",
+    "Purpose": "After in-cabin improvised repair of damaged suit leg bladder using aluminum ring and rubber, installed one solar array addition"
+  },
+  {
+    "EVA #": 241,
+    "Country": "Russia",
+    "Crew": "Vladimir Lyakhov     Alexandr Alexandrov",
+    "Vehicle": "Soyuz T-9       Salyut 7",
+    "Date": "",
+    "Duration": "2:55",
+    "Purpose": "Install second solar array addition"
+  },
+  {
+    "EVA #": 242,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-10     Salyut 7",
+    "Date": "04/23/1984",
+    "Duration": "4:15",
+    "Purpose": "Place tool boxes, equipment, portable ladder.  Use pnuematic punch & cutter to get thru station skin."
+  },
+  {
+    "EVA #": 243,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-10     Salyut 7",
+    "Date": "04/26/1984",
+    "Duration": "5:00",
+    "Purpose": "Install pipe/valve, purge and leak check manfold"
+  },
+  {
+    "EVA #": 244,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-10     Salyut 7",
+    "Date": "04/29/1984",
+    "Duration": "2:45",
+    "Purpose": "Add pipe, leak check, cover with blanket"
+  },
+  {
+    "EVA #": 245,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-10     Salyut 7",
+    "Date": "05/04/1984",
+    "Duration": "2:45",
+    "Purpose": "Continue leaky propellant line repair/replace"
+  },
+  {
+    "EVA #": 246,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-10     Salyut 7",
+    "Date": "05/18/1984",
+    "Duration": "3:03",
+    "Purpose": "Install solar array additions (2).  Jettison boxes"
+  },
+  {
+    "EVA #": 247,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-10     Salyut 7",
+    "Date": "08/08/1984",
+    "Duration": "5:00",
+    "Purpose": "Remove thermal cover w/ special tool.  Seal leaky propellant oxidizer pipe with pinching device.  Cut  free & bring in solar array section"
+  },
+  {
+    "EVA #": 248,
+    "Country": "Russia",
+    "Crew": "Svetlana Savitskaya   Vladimir Dzhanibekov",
+    "Vehicle": "Soyuz T-12      Salyut 7",
+    "Date": "07/25/1984",
+    "Duration": "3:34",
+    "Purpose": "First female EVA.  Welding, cutting, soldering, metal spraying with Paton Institute tool"
+  },
+  {
+    "EVA #": 249,
+    "Country": "Russia",
+    "Crew": "Vladimir Dzhanibekov    Victor Savinykh",
+    "Vehicle": "Soyuz T-13      Salyut 7",
+    "Date": "",
+    "Duration": "4:58",
+    "Purpose": "Install solar array addition (2), install French ISTOK-EM micro-meteroid collectors, test new Orlan DM suit"
+  },
+  {
+    "EVA #": 250,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-15       Salyut 7",
+    "Date": "05/28/1986",
+    "Duration": "3:40",
+    "Purpose": "Ferma-Postroite 15m truss deploy/stow.  Install Mayak optical instrument.  Retrieve ISTOK-EM material samples.  Test new Orlan DM suits"
+  },
+  {
+    "EVA #": 251,
+    "Country": "Russia",
+    "Crew": "Leonid Kizim          Vladimir Solovyov",
+    "Vehicle": "Soyuz T-15       Salyut 7",
+    "Date": "05/31/1986",
+    "Duration": "5:01",
+    "Purpose": "Ferma-Postroite 15m truss deploy after installing vibration measurement unit. Complete Mayak deploy manually.  Weld truss joints."
+  },
+  {
+    "EVA #": 252,
+    "Country": "Russia",
+    "Crew": "Yuri Romanenko      Alexandr Laveykin",
+    "Vehicle": "Soyuz TM-2     Mir",
+    "Date": "04/11/1987",
+    "Duration": "3:39",
+    "Purpose": "Debris removed to restore docking between Kvant and Mir modules.  Robot arm temporarily increased distance between Kvant & Mir for manual debris access.  L. tried low suit P reg position which did not immediately stabilize"
+  },
+  {
+    "EVA #": 253,
+    "Country": "Russia",
+    "Crew": "Yuri Romanenko      Alexandr Laveykin",
+    "Vehicle": "Soyuz TM-2     Mir",
+    "Date": "06/12/1987",
+    "Duration": "1:53",
+    "Purpose": "Assembly of modified solar arrays"
+  },
+  {
+    "EVA #": 254,
+    "Country": "Russia",
+    "Crew": "Yuri Romanenko      Alexandr Laveykin",
+    "Vehicle": "Soyuz TM-2     Mir",
+    "Date": "06/16/1987",
+    "Duration": "3:15",
+    "Purpose": "Assembly of modified solar arrays"
+  },
+  {
+    "EVA #": 255,
+    "Country": "Russia",
+    "Crew": "Vladimir Titov          Musa Manarov",
+    "Vehicle": "Soyuz TM-4    Mir",
+    "Date": "",
+    "Duration": "4:10",
+    "Purpose": "Disassemble modified arrays, install test arrays"
+  },
+  {
+    "EVA #": 258,
+    "Country": "Russia",
+    "Crew": "Alexandr Volkov          Jean-Louc Chretien",
+    "Vehicle": "Soyuz TM-7      Mir",
+    "Date": "",
+    "Duration": "5:57",
+    "Purpose": "French ERA truss experiment deploy and jettison.  Deploy Enchantillon materials experiment"
+  },
+  {
+    "EVA #": 259,
+    "Country": "Russia",
+    "Crew": "Alexandr Viktorenko   Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-8     Mir",
+    "Date": "01/08/1990",
+    "Duration": "2:57",
+    "Purpose": "Install 2 star trackers on Kvant 1.  Remove MMK2 panel from base block"
+  },
+  {
+    "EVA #": 285,
+    "Country": "Russia",
+    "Crew": "Valeri Tsibliyev      Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-17    Mir 16",
+    "Date": "09/16/1993",
+    "Duration": "4:19",
+    "Purpose": "Install stowed Rapana small truss on Kvant1.  Install material samples (Indikator, Plenka5, Strakhovka)"
+  },
+  {
+    "EVA #": 260,
+    "Country": "Russia",
+    "Crew": "Alexandr Viktorenko   Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-8     Mir",
+    "Date": "01/11/1990",
+    "Duration": "2:58",
+    "Purpose": "Kvant 1 science installed (Arfa-9, SKK-1, SKK-3), ERA supports disassembled, docking system hatch relocation as prep for Kristall.  Retrieve Enchantillon experiment"
+  },
+  {
+    "EVA #": 261,
+    "Country": "Russia",
+    "Crew": "Alexandr Viktorenko   Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-8     Mir",
+    "Date": "01/26/1990",
+    "Duration": "3:02",
+    "Purpose": "MMU mooring post/winch installed, Atlas TV and Ferrer/Daneo science installed, solar array fasteners inspected, checkout of Kvant2 airlock and new Orlan DMA w/o umbilical"
+  },
+  {
+    "EVA #": 262,
+    "Country": "Russia",
+    "Crew": "Alexandr Viktorenko   Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-8     Mir",
+    "Date": "",
+    "Duration": "4:59",
+    "Purpose": "Checkout Kvant 2 airlock & new Orlan DMA.  MMU flown tethered for 40 min to 33m."
+  },
+  {
+    "EVA #": 263,
+    "Country": "Russia",
+    "Crew": "Alexandr Viktorenko   Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-8     Mir",
+    "Date": "",
+    "Duration": "3:45",
+    "Purpose": "Checkout Kvant 2 airlock & new Orlan DMA.  MMU flown tethered for 93 min to 45m.  SPIN-6000 rad sensor on MMU"
+  },
+  {
+    "EVA #": 264,
+    "Country": "Russia",
+    "Crew": "Anatoli Solovyov    Alexandr Balandin",
+    "Vehicle": "Soyuz TM-9       Mir",
+    "Date": "07/17/1990",
+    "Duration": "7:00",
+    "Purpose": "Reattach Soyuz thermal insulation blanket, Kvant 2 airlock hatch damaged.  Ingress into backup airlock of Kvant2"
+  },
+  {
+    "EVA #": 265,
+    "Country": "Russia",
+    "Crew": "Anatoli Solovyov    Alexandr Balandin",
+    "Vehicle": "Soyuz TM-9       Mir",
+    "Date": "07/26/1990",
+    "Duration": "3:52",
+    "Purpose": "Soyuz repair access ladder stowed.  Kvant 2 airlock hatch inspected and forced closed"
+  },
+  {
+    "EVA #": 266,
+    "Country": "Russia",
+    "Crew": "Gennady Manakov    Gennady Strekalov",
+    "Vehicle": "Soyuz TM-10    Mir",
+    "Date": "10/29/1990",
+    "Duration": "3:05",
+    "Purpose": "Kvant 2 airlock hatch repair (remove insulation, temp fix to hinge), dismount ATLAS TV camera"
+  },
+  {
+    "EVA #": 267,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev     Musa Manarov",
+    "Vehicle": "Soyuz TM-11       Mir",
+    "Date": "01/07/1991",
+    "Duration": "5:19",
+    "Purpose": "Kvant 2 airlock hatch hinge replacement"
+  },
+  {
+    "EVA #": 268,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev     Musa Manarov",
+    "Vehicle": "Soyuz TM-11       Mir",
+    "Date": "01/23/1991",
+    "Duration": "5:34",
+    "Purpose": "Cargo transfer boom installed on core module (using bolt hole punch).  Ferrer science retrieved"
+  },
+  {
+    "EVA #": 269,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev     Musa Manarov",
+    "Vehicle": "Soyuz TM-11       Mir",
+    "Date": "01/26/1991",
+    "Duration": "6:19",
+    "Purpose": "Truss installation for solar arrays on Kvant-1.  Install Kurs reflectors.  Accidental damage to Kurs"
+  },
+  {
+    "EVA #": 270,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev     Musa Manarov",
+    "Vehicle": "Soyuz TM-11       Mir",
+    "Date": "04/25/1991",
+    "Duration": "3:34",
+    "Purpose": "Inspect damaged Kurs antenna on Kvant-1.  Install repaired ATLAS TV camera.  Test thermo mechanical joints of Sofora truss"
+  },
+  {
+    "EVA #": 271,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev         Anatoli Artsebarsky",
+    "Vehicle": "Soyuz TM-12      Mir",
+    "Date": "06/25/1991",
+    "Duration": "4:58",
+    "Purpose": "Repair Kvant1 Kurs antenna.  Connect ATLAS TV connectors.  Test thermo mechanical joints of Sofora truss"
+  },
+  {
+    "EVA #": 272,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev         Anatoli Artsebarsky",
+    "Vehicle": "Soyuz TM-12      Mir",
+    "Date": "06/28/1991",
+    "Duration": "3:24",
+    "Purpose": "Install TREK radiation exp.  Install scanning TV camera for EVA monitoring"
+  },
+  {
+    "EVA #": 273,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev         Anatoli Artsebarsky",
+    "Vehicle": "Soyuz TM-12      Mir",
+    "Date": "07/15/1991",
+    "Duration": "5:56",
+    "Purpose": "Transfer Sofora 14.5m truss mounting platform to Kvant1"
+  },
+  {
+    "EVA #": 274,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev         Anatoli Artsebarsky",
+    "Vehicle": "Soyuz TM-12      Mir",
+    "Date": "07/19/1991",
+    "Duration": "5:28",
+    "Purpose": "Assemble Sofora 14.5m truss (sections 1-3)"
+  },
+  {
+    "EVA #": 275,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev         Anatoli Artsebarsky",
+    "Vehicle": "Soyuz TM-12      Mir",
+    "Date": "07/23/1991",
+    "Duration": "5:42",
+    "Purpose": "Assemble Sofora 14.5m truss (sections 4-14)"
+  },
+  {
+    "EVA #": 276,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev         Anatoli Artsebarsky",
+    "Vehicle": "Soyuz TM-12      Mir",
+    "Date": "07/27/1991",
+    "Duration": "6:49",
+    "Purpose": "Assemble and elevate Sofora 14.5m truss (sections 15-17).  A. helmet fogged over forcing guide down truss by K.  Jettison old suit"
+  },
+  {
+    "EVA #": 277,
+    "Country": "Russia",
+    "Crew": "Alexandr Volkov      Sergei Krikalev",
+    "Vehicle": "Soyuz TM-13     Mir",
+    "Date": "",
+    "Duration": "4:13",
+    "Purpose": "V. suit cooling sublimator failed so must stay on umbilical.  Base block solar panel section collected.  Material experiments deployed and retrieved on Kvant2 (Sprut, SKK, DankoM, Plenka)"
+  },
+  {
+    "EVA #": 278,
+    "Country": "Russia",
+    "Crew": "Alexandr Viktorenko      Alexandr Kaleri",
+    "Vehicle": "Soyuz TM-14    Mir",
+    "Date": "07/08/1992",
+    "Duration": "2:03",
+    "Purpose": "Kvant 2 gyrodyne inspected after insulation blankets cut.  Test EVA binoculars"
+  },
+  {
+    "EVA #": 279,
+    "Country": "Russia",
+    "Crew": "Anatoli Solovyov      Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-15   Mir",
+    "Date": "",
+    "Duration": "3:56",
+    "Purpose": "Prepare 700kg thruster box for Sofora truss.  Install truss hinge lock"
+  },
+  {
+    "EVA #": 280,
+    "Country": "Russia",
+    "Crew": "Anatoli Solovyov      Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-15   Mir",
+    "Date": "",
+    "Duration": "5:08",
+    "Purpose": "Install thruster control cables on Sofora truss.  Attach truss to thruster box mounted on Progress"
+  },
+  {
+    "EVA #": 281,
+    "Country": "Russia",
+    "Crew": "Anatoli Solovyov      Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-15   Mir",
+    "Date": "09/11/1992",
+    "Duration": "5:44",
+    "Purpose": "Install thruster box on Sofora truss and deploy to ops pos"
+  },
+  {
+    "EVA #": 282,
+    "Country": "Russia",
+    "Crew": "Anatoli Solovyov      Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-15   Mir",
+    "Date": "09/15/1992",
+    "Duration": "3:33",
+    "Purpose": "Move Kurs antenna on Kristall.  Retrieve science"
+  },
+  {
+    "EVA #": 283,
+    "Country": "Russia",
+    "Crew": "Gennady Manakov     Alexandr Poleshchuk",
+    "Vehicle": "Soyuz TM-16     Mir 15",
+    "Date": "04/19/1993",
+    "Duration": "5:25",
+    "Purpose": "Relocated solar array control base from Kristall to Kvant-1.  Vent problem in 1 suit, crane handle lost"
+  },
+  {
+    "EVA #": 284,
+    "Country": "Russia",
+    "Crew": "Gennady Manakov     Alexandr Poleshchuk",
+    "Vehicle": "Soyuz TM-16     Mir 15",
+    "Date": "06/18/1993",
+    "Duration": "4:32",
+    "Purpose": "Relocated second solar array base from Kristall to Kvant-1"
+  },
+  {
+    "EVA #": 286,
+    "Country": "Russia",
+    "Crew": "Valeri Tsibliyev      Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-17    Mir 16",
+    "Date": "09/20/1993",
+    "Duration": "3:13",
+    "Purpose": "Deploy Rapana small truss with material samples"
+  },
+  {
+    "EVA #": 287,
+    "Country": "Russia",
+    "Crew": "Valeri Tsibliyev      Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-17    Mir 16",
+    "Date": "09/28/1993",
+    "Duration": "1:51",
+    "Purpose": "Inspect for Perseid meteor shower damage.  Place Danko-M construction materials for exposure.  Retrieve one TREK panel.  Cooling system failure in T's suit shortens EVA"
+  },
+  {
+    "EVA #": 288,
+    "Country": "Russia",
+    "Crew": "Valeri Tsibliyev      Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-17    Mir 16",
+    "Date": "",
+    "Duration": "0:37",
+    "Purpose": "Exterior inspections started.  SKK science deployed.  O2 failure in S's suit stops work"
+  },
+  {
+    "EVA #": 289,
+    "Country": "Russia",
+    "Crew": "Valeri Tsibliyev      Alexandr Serebrov",
+    "Vehicle": "Soyuz TM-17    Mir 16",
+    "Date": "",
+    "Duration": "4:12",
+    "Purpose": "Complete Panorama exterior inspections, discard used Orlan suit"
+  },
+  {
+    "EVA #": 290,
+    "Country": "Russia",
+    "Crew": "Yuri Malenchenko    Talgat Musabeyev",
+    "Vehicle": "Soyuz TM-18     Mir 17",
+    "Date": "",
+    "Duration": "5:05",
+    "Purpose": "Inspect Progress docking system, prepare base for 2nd cargo boom (with hole punch), material science deployed/retrieved (Platan 4/5, SKK)"
+  },
+  {
+    "EVA #": 291,
+    "Country": "Russia",
+    "Crew": "Yuri Malenchenko    Talgat Musabeyev",
+    "Vehicle": "Soyuz TM-18     Mir 17",
+    "Date": "09/13/1994",
+    "Duration": "6:05",
+    "Purpose": "Inspect Kristall solar arrays before retraction/move to Kvant-1.  Tighten restraint bolts for Sofora and solar array bases.  Mount amateur radio antenna.  Retrieve Rapana science samples."
+  },
+  {
+    "EVA #": 292,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov      Gennady Strekalov",
+    "Vehicle": "Soyuz TM-19      Mir 18",
+    "Date": "05/12/1995",
+    "Duration": "6:08",
+    "Purpose": "Install electrical cables and adjust solar array actuators on Kvant-1.  Practice folding 3 solar array panels on Kristall"
+  },
+  {
+    "EVA #": 293,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov      Gennady Strekalov",
+    "Vehicle": "Soyuz TM-19      Mir 18",
+    "Date": "05/17/1995",
+    "Duration": "6:50",
+    "Purpose": "Fold one Kristall solar array, move it to Kvant-1 using cargo crane, tie off temporarily"
+  },
+  {
+    "EVA #": 294,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov      Gennady Strekalov",
+    "Vehicle": "Soyuz TM-19      Mir 18",
+    "Date": "05/22/1995",
+    "Duration": "5:15",
+    "Purpose": "Fold all but 10 feet of second Kristall solar array and finish installing other array on Kvant-1"
+  },
+  {
+    "EVA #": 295,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov      Gennady Strekalov",
+    "Vehicle": "Soyuz TM-19      Mir 18",
+    "Date": "05/29/1995",
+    "Duration": "0:21",
+    "Purpose": "Move base block docking port for Kristall move"
+  },
+  {
+    "EVA #": 296,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov      Gennady Strekalov",
+    "Vehicle": "Soyuz TM-19      Mir 18",
+    "Date": "06/16/1995",
+    "Duration": "0:23",
+    "Purpose": "Move base block docking port in prep for Spektr docking"
+  },
+  {
+    "EVA #": 297,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-20      Mir 19",
+    "Date": "07/14/1995",
+    "Duration": "5:34",
+    "Purpose": "Cut launch restraint of Spektr solar array with U.S. tool, resecure amateur radio antenna, retether cargo crane to free Kvant-2 solar array"
+  },
+  {
+    "EVA #": 298,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-20      Mir 19",
+    "Date": "07/19/1995",
+    "Duration": "3:06",
+    "Purpose": "Recover TREK.  Install Komplast.  Recover SKK-4, SKK-12, Platan, Stuk.  H2O cooling problem on one suit prevented Miras installation"
+  },
+  {
+    "EVA #": 299,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-20      Mir 19",
+    "Date": "07/21/1995",
+    "Duration": "5:44",
+    "Purpose": "Deploy Miras, shake Spektr solar array to attempt deploy of end panel.  Resecure amateur radio antenna.  Open Elektron O2 system valve"
+  },
+  {
+    "EVA #": 300,
+    "Country": "Russia",
+    "Crew": "Sergei Avdeyev      Thomas Reiter",
+    "Vehicle": "Soyuz TM-X     Mir 20",
+    "Date": "",
+    "Duration": "5:16",
+    "Purpose": "Deploy ESEF materials experiment and replace Komza cassettes on Spektr"
+  },
+  {
+    "EVA #": 301,
+    "Country": "Russia",
+    "Crew": "Sergei Avdeyev            Yuri Gidzenko",
+    "Vehicle": "Soyuz TM-X     Mir 20",
+    "Date": "",
+    "Duration": "0:32",
+    "Purpose": "Move base block docking port as prep for Priroda docking"
+  },
+  {
+    "EVA #": 302,
+    "Country": "Russia",
+    "Crew": "Yuri Gidzenko            Thomas Reiter",
+    "Vehicle": "Soyuz TM-X     Mir 20",
+    "Date": "",
+    "Duration": "3:06",
+    "Purpose": "Retrieve ESEF sample cassettes from Spektr.   Relocate MMU to stow site on Kvant-2 exterior"
+  },
+  {
+    "EVA #": 303,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrenko           Yuri Usachev",
+    "Vehicle": "Soyuz TM-23     Mir 21",
+    "Date": "",
+    "Duration": "5:51",
+    "Purpose": "Deploy second cargo crane.  Prepare solar array install site on Kvant-1"
+  },
+  {
+    "EVA #": 304,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrenko           Yuri Usachev",
+    "Vehicle": "Soyuz TM-23     Mir 21",
+    "Date": "05/21/1996",
+    "Duration": "5:20",
+    "Purpose": "Relocate cooperative array from DM to Kvant-1.  Pepsi mockup photography"
+  },
+  {
+    "EVA #": 305,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrenko           Yuri Usachev",
+    "Vehicle": "Soyuz TM-23     Mir 21",
+    "Date": "05/24/1996",
+    "Duration": "5:43",
+    "Purpose": "Install 1/2 of cooperative array cables on Kvant1"
+  },
+  {
+    "EVA #": 306,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrenko           Yuri Usachev",
+    "Vehicle": "Soyuz TM-23     Mir 21",
+    "Date": "05/30/1996",
+    "Duration": "4:20",
+    "Purpose": "Deploy MOMS experiment on Priroda.  Open exp covers"
+  },
+  {
+    "EVA #": 307,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrenko           Yuri Usachev",
+    "Vehicle": "Soyuz TM-23     Mir 21",
+    "Date": "06/06/1996",
+    "Duration": "3:34",
+    "Purpose": "Deploy U.S. PIE/MSRE experiments on Kvant-2.  Replace Komza cassettes.  Install SKK-11.  Pepsi mockup photography"
+  },
+  {
+    "EVA #": 308,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrenko           Yuri Usachev",
+    "Vehicle": "Soyuz TM-23     Mir 21",
+    "Date": "06/13/1996",
+    "Duration": "5:42",
+    "Purpose": "Manually assist Priroda Travers antenna.  Tighten Sofora truss fasteners.  Retrieve samples and secure Rapana truss to Sofora.  Install and deploy Ferma-3 truss experiment"
+  },
+  {
+    "EVA #": 309,
+    "Country": "Russia",
+    "Crew": "Valery Korzun            Alexander Kaleri",
+    "Vehicle": "Soyuz TM-24       Mir 22",
+    "Date": "",
+    "Duration": "5:57",
+    "Purpose": "Install last 1/2 of cables for cooperative array on Kvant-1.  Connect solar array power cables on base block.  Relocate Rapana truss to Ferma-3 truss"
+  },
+  {
+    "EVA #": 310,
+    "Country": "Russia",
+    "Crew": "Valery Korzun            Alexander Kaleri",
+    "Vehicle": "Soyuz TM-24       Mir 22",
+    "Date": "",
+    "Duration": "6:36",
+    "Purpose": "Install Kurs antenna on docking module (including routing/mating cable to Kristall).  Tighten connector of amateur radio antenna on base block"
+  },
+  {
+    "EVA #": 311,
+    "Country": "Russia",
+    "Crew": "Valeri Tsibliev            Jerry Linenger",
+    "Vehicle": "Soyuz TM-25       Mir 23",
+    "Date": "04/29/1997",
+    "Duration": "4:57",
+    "Purpose": "Deploy OPM and TLD/Benton dosimeters.  Retrieve PIE and MSRE.  Use U.S. EVA tether and 35mm camera.  First use of new Orlan M suits"
+  },
+  {
+    "EVA #": 312,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev        Pavel Vinogradov",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "08/21/1997",
+    "Duration": "5:30",
+    "Purpose": "Connect solar array power cables inside Spektr.  Inspect Spektr interior for leaks.  Retrieve science and personal hardware from Spektr."
+  },
+  {
+    "EVA #": 313,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Mike Foale",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "09/06/1997",
+    "Duration": "6:00",
+    "Purpose": "Inspect Spektr exterior for leak sites (video under radiator and measure gap around solar array base).  Rotate 2 Spektr solar arrays.  Retrieve Benton dosimeter."
+  },
+  {
+    "EVA #": 314,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Pavel Vinogradov",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "10/20/1997",
+    "Duration": "6:10",
+    "Purpose": "Connect 2 of 3 solar array orientation cables inside Spektr."
+  },
+  {
+    "EVA #": 315,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Pavel Vinogradov",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "11/03/1997",
+    "Duration": "6:05",
+    "Purpose": "Release Sputnik anniversary satellite.  Tiedown old solar array from Kvant-1 to base block.  Install Vozduk CO2 system external cap.  Retrieve base block solar array sample.  Retrieve/deploy Kvant-2 science.  Kvant-2 outer hatch leaks.  Ingress via backup airlock."
+  },
+  {
+    "EVA #": 316,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Pavel Vinogradov",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "11/06/1997",
+    "Duration": "6:19",
+    "Purpose": "Transfer new solar array from docking module to Kvant-1.  First handoff of stowed array from one crane to second.  Remove Vozduk external cap and install outlet diffuser.  Kvant-2 outer hatch inspected then sealed with aid of backup bolts."
+  },
+  {
+    "EVA #": 317,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Pavel Vinogradov",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "01/09/1998",
+    "Duration": "3:06",
+    "Purpose": "Retrieve U.S. OPM experiment from docking module.  Kvant-2 hatch inspected, videotaped and bolted closed."
+  },
+  {
+    "EVA #": 318,
+    "Country": "Russia",
+    "Crew": "Anatoly Solovyev     Dave Wolf",
+    "Vehicle": "Soyuz TM-26      Mir 24",
+    "Date": "01/14/1998",
+    "Duration": "3:52",
+    "Purpose": "Use SPSR experiment on Kvant-2 radiator.  Kvant-2 airlock hatch inspected and bolted closed"
+  },
+  {
+    "EVA #": 319,
+    "Country": "Russia",
+    "Crew": "Talgat Musabeyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-27     Mir 25",
+    "Date": "03/03/1998",
+    "Duration": "0:00",
+    "Purpose": "Manual wrenches inadequate to release hatch bolts.  Spektr solar array reinforcement deferred."
+  },
+  {
+    "EVA #": 320,
+    "Country": "Russia",
+    "Crew": "Talgat Musabeyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-27     Mir 25",
+    "Date": "04/01/1998",
+    "Duration": "6:26",
+    "Purpose": "Install handrails and foot restraints on Spektr around damaged solar array."
+  },
+  {
+    "EVA #": 321,
+    "Country": "Russia",
+    "Crew": "Talgat Musabeyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-27     Mir 25",
+    "Date": "04/06/1998",
+    "Duration": "4:23",
+    "Purpose": "Reinforce Spektr solar array.  Retrieve Komza"
+  },
+  {
+    "EVA #": 322,
+    "Country": "Russia",
+    "Crew": "Talgat Musabeyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-27     Mir 25",
+    "Date": "04/11/1998",
+    "Duration": "6:25",
+    "Purpose": "Jettison VDU roll thruster package from Sofora top"
+  },
+  {
+    "EVA #": 323,
+    "Country": "Russia",
+    "Crew": "Talgat Musabeyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-27     Mir 25",
+    "Date": "04/17/1998",
+    "Duration": "6:33",
+    "Purpose": "Prepare new VDU for Sofora mating.  Clear Ferma-3 & Rapana trusses.  Tighten Sofora bolts"
+  },
+  {
+    "EVA #": 324,
+    "Country": "Russia",
+    "Crew": "Talgat Musabeyev     Nikola Budarin",
+    "Vehicle": "Soyuz TM-27     Mir 25",
+    "Date": "04/22/1998",
+    "Duration": "6:21",
+    "Purpose": "Install new VDU on Sofora and erect to vertical pos.  Jettison of ???????"
+  },
+  {
+    "EVA #": 325,
+    "Country": "Russia",
+    "Crew": "G. Padelka                     Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-28           Mir 26",
+    "Date": "09/15/1998",
+    "Duration": "0:30",
+    "Purpose": "Internal EVA inside Spektr to connect solar array orientation cable in response to avionics failure."
+  },
+  {
+    "EVA #": 326,
+    "Country": "Russia",
+    "Crew": "G. Padelka                     Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-28           Mir 26",
+    "Date": "11/10/1998",
+    "Duration": "5:50",
+    "Purpose": "Manual launch of Sputnik demo satellite.  Install Dvikon suit material exposure experiment on base block Igla antenna.  Retrieve bagged sample after thruster exhaust exposure.  Attach and deploy experimental solar array on docking module trunnion.  Replace thermal blanket over pwr connectors.  Retrieve  Keramika, Danko, Solyaris and SMMK experiments.  Deploy Komet, Spika, Migmas and Sprut experiments on Kvant2."
+  },
+  {
+    "EVA #": 327,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev                  Jean-Pierre Heignere",
+    "Vehicle": "Soyuz TM-29           Mir 27",
+    "Date": "04/16/1999",
+    "Duration": "6:19",
+    "Purpose": "Attempted demo of leak repair device failed due to valve failure.  Deployed organic material exposure experiment and retrieved French MMOD experiment.  Manual launch of Sputnik demo satellite."
+  },
+  {
+    "EVA #": 328,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev                   Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-29           Mir 27",
+    "Date": "07/23/1999",
+    "Duration": "6:07",
+    "Purpose": "Installed a new experimental 6-meter diameter antenna on Sofora truss but failed to deploy it fully.  Unsuccessfully sought source of small leak in Kvant-2 atmosphere.  Retrieved the Exobiology and Dvikon experiments."
+  },
+  {
+    "EVA #": 329,
+    "Country": "Russia",
+    "Crew": "Victor Afanasyev                   Sergei Avdeyev",
+    "Vehicle": "Soyuz TM-29           Mir 27",
+    "Date": "07/28/1999",
+    "Duration": "5:22",
+    "Purpose": "Finished full deploy of an experimental 6-meter antenna on Sofora truss.  At the end of the experiment the antenna was jettisoned.  Also installed experiments Indicator and Sprut-4, changed the cassettes of the Migmas ion spectrometer and retrieved Danko-M and Ekran-D experiments.  Problem with suit cooling ended EVA."
+  },
+  {
+    "EVA #": 330,
+    "Country": "Russia",
+    "Crew": "Sergei Zaletin      Alexander Kaleri",
+    "Vehicle": "Soyuz TM-30    Mir 28",
+    "Date": "05/12/2000",
+    "Duration": "5:30",
+    "Purpose": "Inspected and photographed short circuit damaged solar array cable on Kvant-1.  Tested module leak repair sealant on sample panel.  Retrieved a solar array test sample from the docking module.  Conducted general inspection/photography of health of Mir exterior (panorama)"
+  },
+  {
+    "EVA #": 331,
+    "Country": "Russia",
+    "Crew": "Yuri Usachev                  Jim Voss",
+    "Vehicle": "ISS Incr-2",
+    "Date": "06/08/2001",
+    "Duration": "0:19",
+    "Purpose": "Relocated SM docking port as prep for DC1 docking.  Tested Orlan suits launched with SM."
+  },
+  {
+    "EVA #": 332,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov     Mikhail Tyurin",
+    "Vehicle": "ISS Incr-3",
+    "Date": "10/08/2001",
+    "Duration": "4:58",
+    "Purpose": "First EVA from DC-1.  Installed Tranzit-B cable for EVA radio communications between the SM and DC-1.  Installed 4 hatch handrails, egress/ingress ladder, MLI, video camera and Strela crane operator post/boom on DC-1.  Installed Kurs antennas and docking target.  Confirmed deployment of 4 Kurs active antennas.  As planned, jettisoned MLI covers from DC-1 docking target and Kurs antenna.  Small drops of thruster contamination seen on MLI.  Suit gloves inspected, wiped down and bagged post EVA."
+  },
+  {
+    "EVA #": 333,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov     Mikhail Tyurin",
+    "Vehicle": "ISS Incr-3",
+    "Date": "10/15/2001",
+    "Duration": "5:52",
+    "Purpose": "Installed Kromka at SM port location.  Installed Japanese contracted MPAC-SEEDS materials experiments (3) on outside of SM.  Replaced Russian flag placard with Kodak sign (material durability tests).  EVA hatch was briefly stuck in temp stow position.  Orlan gloves bagged post EVA."
+  },
+  {
+    "EVA #": 334,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov     Frank Culbertson",
+    "Vehicle": "ISS Incr-3",
+    "Date": "11/12/2001",
+    "Duration": "5:04",
+    "Purpose": "DC1-SM hatch leaked during initial depress.  Wipe of seals and reclosure resolved leak (30 minute delay).  Connected Kurs cables (4 hi freq and 3 low freq) outside Pirs DC-1.   Installed tether between DC1 egress ladder and SM.  Completed checks of the Strela crane.  Inspected and photographed a partially deployed panel of SM solar array."
+  },
+  {
+    "EVA #": 335,
+    "Country": "Russia",
+    "Crew": "Vladimir Dezhurov     Mikhail Tyurin",
+    "Vehicle": "ISS Incr-3",
+    "Date": "12/03/2001",
+    "Duration": "2:46",
+    "Purpose": "Removed debris on SM aft port that prevented Progress vehicle #6 from completing hard dock.  Photoed and removed Progress #5 seal debris."
+  },
+  {
+    "EVA #": 336,
+    "Country": "Russia",
+    "Crew": "Yri Onufrienko            Carl Walz",
+    "Vehicle": "ISS Incr-4",
+    "Date": "01/14/2002",
+    "Duration": "6:03",
+    "Purpose": "Relocated a cargo boom for the Russian Strela crane from PMA-1 to Pirs DC-1.  Installed amateur radio antenna WA3 and cables onto the aft of SM.  Jettisoned gloves and wiping towels?"
+  },
+  {
+    "EVA #": 337,
+    "Country": "Russia",
+    "Crew": "Yuri Onufrienko              Dan Bursch",
+    "Vehicle": "ISS Incr-4",
+    "Date": "01/25/2002",
+    "Duration": "5:59",
+    "Purpose": "Installed 6 thruster deflector shields on SM.  Installed an amateur radio antenna (WA4) and retrieved/ replaced Kromka device to measure thruster deposits.  Installed 1 Platan-M radiation experiment and 3 SKK materials experiments."
+  },
+  {
+    "EVA #": 338,
+    "Country": "Russia",
+    "Crew": "Valery Korzun             Peggy Whitson",
+    "Vehicle": "ISS Incr-5",
+    "Date": "08/16/2002",
+    "Duration": "4:25",
+    "Purpose": "EVA delayed 1:43 due to missed opening of primary O2 bottles in both suits.  Removed 6 MMOD shield panels from PMA-1 and installed them on SM.  Deferred EVA tasks for swab of fuel/oxidizer residue and installation of Kromka experiment."
+  },
+  {
+    "EVA #": 339,
+    "Country": "Russia",
+    "Crew": "Valery Korzun         Sergei Treschev",
+    "Vehicle": "ISS Incr-5",
+    "Date": "08/26/2002",
+    "Duration": "5:21",
+    "Purpose": "Installed ORU attachment frame outside FGB to house components for EVA assembly tasks.  Retrieved and replaced panel #1 of Japan's MPAC/SEEDs materials experiments outside SM.  Installed 4 fairleads on FGB for future routing of tethers.  Added two ham radio antennas on SM (WA1 & WA2).  Replaced the earlier deferred Kromka hardware.  Inspected MMOD sensor outside SM."
+  },
+  {
+    "EVA #": 357,
+    "Country": "Russia",
+    "Crew": "Yuri Lonchakov         Mike Fincke",
+    "Vehicle": "ISS Incr-18",
+    "Date": "03/10/2009",
+    "Duration": "4:48",
+    "Purpose": "Cut off excess length of fabric straps near DC1 antennas and docking target.  Reinstalled EXPOSE-R experiment and adjusted orientation of SKK experiment panel.  Closed thermal insulation flap over electrical connector panel.  Photographed external hardware"
+  },
+  {
+    "EVA #": 340,
+    "Country": "Russia",
+    "Crew": "Alexander Kaleri         Mike Foale",
+    "Vehicle": "ISS Incr-8",
+    "Date": "02/26/2004",
+    "Duration": "3:55",
+    "Purpose": "Replaced an SKK removable materials sample cassette from DC-1.  Retrieved Japanese MPAC/SEEDS panel #2 and relocated MPAC/SEEDS panel #3.  Installed ESA \"Matryoshka\" experiment.  Removed two Velcro straps from the SM's WA2 ham radio antenna.  Replaced two SKK removable materials sample cassettes on SM.  Suit cooling system failure ended work 1.5 hours early.   Did not retrieve/relocate ATV reflectors for ESA, retrieve/install Kromka thruster contamination sampling tray, reconfigure the \"Platan-M\" payload experiment or photograph external structures."
+  },
+  {
+    "EVA #": 341,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka      Mike Fincke",
+    "Vehicle": "ISS Incr-9",
+    "Date": "06/24/2004",
+    "Duration": "0:14",
+    "Purpose": "Fincke's Orlan O2 injector lever not in fully closed position.  EVA attempt terminated early."
+  },
+  {
+    "EVA #": 342,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka      Mike Fincke",
+    "Vehicle": "ISS Incr-9",
+    "Date": "06/30/2004",
+    "Duration": "5:39",
+    "Purpose": "Replaced RPCM on SO truss for CMG #2 after extending and translating along Strela crane.  Completed getahead tasks on DC1 (contamination sensor, fabric handrails, 2 handrail end stops)"
+  },
+  {
+    "EVA #": 343,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka      Mike Fincke",
+    "Vehicle": "ISS Incr-9",
+    "Date": "08/03/2004",
+    "Duration": "4:30",
+    "Purpose": "Installed 2 ATV antennas.  Removed 6 ATV laser reflectors and installed 3 new reflectors.  Demated cable from failed ATV camera.  Replaced several experiments (Kromka thruster contam, CKK material exposure, Platan-M cosmic rays).  Installed 2 handrail end stops on DC1 aft hatch"
+  },
+  {
+    "EVA #": 344,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka      Mike Fincke",
+    "Vehicle": "ISS Incr-9",
+    "Date": "09/03/2004",
+    "Duration": "5:21",
+    "Purpose": "Replaced FGB thermal system fluid control unit.  Installed 4 safety tether fairleads on FGB.  Stopped motion to aid test for phantom torque upon CMGs.  Installed 3 ATV antennas on SM and removed 5 antenna covers.  Installed 3 of 4 handrail end stops on DC1 fwd hatch.  Photographed MPAC/SEEDS experiment.  Jettisoned antenna covers, glove wipe towels & container with old FGB ORU (~ 10 items)"
+  },
+  {
+    "EVA #": 345,
+    "Country": "Russia",
+    "Crew": "Leroy Chiao            Salizhan Sharipov",
+    "Vehicle": "ISS Incr-10",
+    "Date": "01/26/2005",
+    "Duration": "5:28",
+    "Purpose": "Installed science workstation and German Rokviss robotic experiment on SM.  Transfered MPAC/SEEDs experiment panel to new location on same stand.  Installed Rokviss antenna on MPAC/SEEDs mounting structure (cable reconnection due to initial mating error).  Photoed contamination on vent valves of Elektron, Vozdukh and trace gas system to aid MCC-M troubleshooting.  Installed BioRisk experiment on DC1.  19 items jettisoned (elec caps, glove wipes)"
+  },
+  {
+    "EVA #": 346,
+    "Country": "Russia",
+    "Crew": "Leroy Chiao            Salizhan Sharipov",
+    "Vehicle": "ISS Incr-10",
+    "Date": "03/28/2005",
+    "Duration": "4:30",
+    "Purpose": "Installed 3 ATV antennas on SM fwd end.  Jettisoned German Nanosputnik experiment.  Installed ATV GPS antenna on SM aft end.  Photographed/observed ONA antenna drive to aid MCC-M troubleshooting.  Inpected ATV retroreflector for contamination (little found).  Jettisoned elec caps, antenna covers, glove wipe towels"
+  },
+  {
+    "EVA #": 364,
+    "Country": "Russia",
+    "Crew": "Dmitry Kondratiev         Oleg Skripochka",
+    "Vehicle": "ISS Incr-26",
+    "Date": "02/16/2011",
+    "Duration": "4:51",
+    "Purpose": "Installed Photon-Gamma and Radiometria experiments on SM.  Jettisoned foot restraint.  Retrieved Komplast panels from FGB."
+  },
+  {
+    "EVA #": 347,
+    "Country": "Russia",
+    "Crew": "Sergei Krikalev            John Phillips",
+    "Vehicle": "ISS Incr-11",
+    "Date": "08/18/2005",
+    "Duration": "4:58",
+    "Purpose": "Retrieve canister #1 of the Biorisk experiment can #1,  MPAC/SEEDS materials experiment panel #3 and Matryoshka radiation dosimetry experiment.  Install Automated Transfer Vehicle (ATV) backup docking camera.  Relocate SKK material experiment #4 and install #5.  Ran out of time to relocate Russian cargo crane grapple fixture adapter from FGB to PMA3 (prep for STS-116/12A.1)"
+  },
+  {
+    "EVA #": 348,
+    "Country": "Russia",
+    "Crew": "Valeri Tokarev           Bill McArthur",
+    "Vehicle": "ISS Incr-12",
+    "Date": "02/03/2006",
+    "Duration": "5:44",
+    "Purpose": "Jettisoned life expired Orlan suit with Ham radio inside (RadioSkaf or Suit Sat).  Relocated Strela adapter from FGB to PMA-3. Removed zenith TUS cable from IUA, secured to MT handrail because safing bolt would not engage adequately. Retrieved science experiment (Biorisk) and photographed exterior of Service Module."
+  },
+  {
+    "EVA #": 349,
+    "Country": "Russia",
+    "Crew": "Pavel Vinogradov         Jeff Williams",
+    "Vehicle": "ISS Incr-13",
+    "Date": "",
+    "Duration": "6:31",
+    "Purpose": "Installed new hydrogen vent for Elektron O2 generator.  Retrieved Kromka, BKHD and Biorisk experiments.  Relocated ATV WAL3 antenna cable to improve system performance.  Photographed ATV WAL2 antenna and SM reboost engine to aid engine cover troubleshooting.  Lost crane foot restraint adapter.  Replaced MBS camera (EVA extended by 50 min to permit task)."
+  },
+  {
+    "EVA #": 350,
+    "Country": "Russia",
+    "Crew": "Mikhail Tyurin    Michael Lopez-Alegria",
+    "Vehicle": "ISS Incr-14",
+    "Date": "11/22/2006",
+    "Duration": "5:38",
+    "Purpose": "Performed golf demo (one ball jettisoned).  Inspected but unable to stow Progress antenna.  Relocated ATV antenna impairing SM reboost engine.  Installed solar radiation experiment (minus data cable)"
+  },
+  {
+    "EVA #": 351,
+    "Country": "Russia",
+    "Crew": "Mikhail Tyurin    Michael Lopez-Alegria",
+    "Vehicle": "ISS Incr-14",
+    "Date": "02/22/2007",
+    "Duration": "6:18",
+    "Purpose": "Cut/cleared Progress antenna interfering with undocking. Adjusted ATV antenna interfaces. Replaced a materials experiment. Installed data cable of radiation experiment. Photographed ATV reflectors and numerous experiments. Installed 2 foot restraints outside airlock. Inspected safety of cargo crane mechanisms.  Successfully used new LED helmet lights.  EV1's sublimator breakthru caused helmet fogging before reset correction."
+  },
+  {
+    "EVA #": 352,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikhin              Oleg Kotov",
+    "Vehicle": "ISS Incr-15",
+    "Date": "05/30/2007",
+    "Duration": "5:25",
+    "Purpose": "Start delayed 45 minutes due to comm misconfig.  Transferred MMOD panels from PMA3 to SM and installed 5 of 17 panels.  Installed ATV GPS antenna cable.  Suit wrist mirror lost overboard."
+  },
+  {
+    "EVA #": 353,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikhin              Oleg Kotov",
+    "Vehicle": "ISS Incr-15",
+    "Date": "06/06/2007",
+    "Duration": "5:37",
+    "Purpose": "Installed SM-FGB cable for local area network (LAN) and Biorisk science experiment.  Installed last 12 MMOD shields on SM."
+  },
+  {
+    "EVA #": 354,
+    "Country": "Russia",
+    "Crew": "Sergei Volkov              Oleg Kononenko",
+    "Vehicle": "ISS Incr-17",
+    "Date": "07/10/2008",
+    "Duration": "6:19",
+    "Purpose": "Removed a pyrobolt from 1 of 5 Soyuz capsule restraints.  First use of US helmet TV on Orlan.  Lost tool and insulation fragments overboard.  Jettisoned thruster cover bounced off radiator in wrong direction."
+  },
+  {
+    "EVA #": 355,
+    "Country": "Russia",
+    "Crew": "Sergei Volkov              Oleg Kononenko",
+    "Vehicle": "ISS Incr-17",
+    "Date": "07/15/2008",
+    "Duration": "5:54",
+    "Purpose": "Prepped for new module (MRM2) installation by installing a SM docking target and inspecting antenna attach points.  Installed Vsplesk cosmic radiation experiment and retrieved Biorisk experiment.  Unbent a ham radio antenna."
+  },
+  {
+    "EVA #": 356,
+    "Country": "Russia",
+    "Crew": "Yuri Lonchakov         Mike Fincke",
+    "Vehicle": "ISS Incr-18",
+    "Date": "",
+    "Duration": "5:39",
+    "Purpose": "Installed Langmuir probe to aid Soyuz reentry sep analysis.  Retrieved a BIORISK can.  Installed EXPOSE R and Impulse experiments.  Had to deinstall and return EXPOSE R to cabin when it wouldnÂt activate.  Deferred other tasks.  Failed valve forced use of stored gas to repress airlock."
+  },
+  {
+    "EVA #": 358,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka      Mike Barratt",
+    "Vehicle": "ISS Incr-19",
+    "Date": "06/05/2009",
+    "Duration": "4:54",
+    "Purpose": "First use of new Orlan MK suits with digital caution/warning electronics.  Started 1 hour late due to faulty CO2 readings.  Installed two docking navigation antennas on zenith port of service module as prep for MRM2 arrival"
+  },
+  {
+    "EVA #": 359,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka      Mike Barratt",
+    "Vehicle": "ISS Incr-19",
+    "Date": "06/10/2009",
+    "Duration": "0:12",
+    "Purpose": "Relocated docking cone to zenith port of Service Module as prep for MRM2 arrival"
+  },
+  {
+    "EVA #": 360,
+    "Country": "Russia",
+    "Crew": "Oleg Kotov         Maxim Suraev",
+    "Vehicle": "ISS Incr-22",
+    "Date": "01/14/2010",
+    "Duration": "5:44",
+    "Purpose": "Prepped new module (MRM2) for Soyuz/Progress usage by installing Kurs navigation antennas/cables and docking targets.  Installed 2 hatch handrails, jettisoned excess thermal blankets and retrieved can of Biorisk experiment"
+  },
+  {
+    "EVA #": 361,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikin    Mikhail Kornienko",
+    "Vehicle": "ISS Incr-24",
+    "Date": "07/27/2010",
+    "Duration": "6:42",
+    "Purpose": "Replaced degraded ATV docking camera and jettisoned old unit.  Removed launch restraints from MRM1 camera.  Installed cables to enable dockings to MRM1.  Lost cable clamp"
+  },
+  {
+    "EVA #": 362,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikin     Oleg Skripochka",
+    "Vehicle": "ISS Incr-25",
+    "Date": "10/15/2010",
+    "Duration": "6:27",
+    "Purpose": "Installed experiment platform on SM large diameter, CKK materials experiment on MRM2 and two handrail gap spanners.  Collected sample wipes of prop byproducts and microbes from thermal blankets.  Retrieved ROKVISS robot experiment and jettisoned wipedown towels.  Removed but not able to relocate MRM1 TV camera due to thermal blanket.  FGB paint chips lost overboard"
+  },
+  {
+    "EVA #": 363,
+    "Country": "Russia",
+    "Crew": "Dmitry Kondratiev         Oleg Skripochka",
+    "Vehicle": "ISS Incr-26",
+    "Date": "01/21/2011",
+    "Duration": "5:23",
+    "Purpose": "Installed 100Mb/sec data downlink antenna and its cables.  Retrieved plasma and ExposeR materials exposure experiments.  Finished installation of MRM1 docking TV camera by cutting into impeding thermal blanket.  Jettisoned antenna cover and cable reel"
+  },
+  {
+    "EVA #": 365,
+    "Country": "Russia",
+    "Crew": "Sergei Volkov       Alexander Samokutyaev",
+    "Vehicle": "ISS Incr-28",
+    "Date": "08/03/2011",
+    "Duration": "6:23",
+    "Purpose": "Installed laser comm and Biorisk experiments.  Jettisoned covers of laser experiment. After delay due to broken rcvr antenna, deployed ham radio satellite Radioskaf-V/Arissat-1.  Removed SM-MRM1 Kurs antenna from SM.  Took photos of materials experiments, degraded antenna and images of Russian space heroes.  Due to time, did not relocate strela crane from DC1 to MRM1."
+  },
+  {
+    "EVA #": 366,
+    "Country": "Russia",
+    "Crew": "Oleg Kononenko                   Anton Shkaplerov",
+    "Vehicle": "ISS Incr-30",
+    "Date": "02/16/2012",
+    "Duration": "6:15",
+    "Purpose": "Relocated 1st strela crane from DC1 to MRM1 and jettisoned base thermal cover.  Installed materials exposure experiment and took 1 of 2 swab samples of contamination under thermal blanket.  Due to time, did not install SM MMOD shields"
+  },
+  {
+    "EVA #": 367,
+    "Country": "Russia",
+    "Crew": "Gennady Padalka  Yuri Malenchenko",
+    "Vehicle": "ISS Incr-32",
+    "Date": "08/20/2012",
+    "Duration": "5:51",
+    "Purpose": "1 hr late start due to airlock valve.  Relocated cargo crane from DC1 to FGB as prep for MLM.  Installed MMOD shields on Service Module and support struts for airlock exit ladder.  Deployed small satellite and retrieved Biorisk experiment canister"
+  },
+  {
+    "EVA #": 368,
+    "Country": "Russia",
+    "Crew": "Pavel Vinogradov     Roman Romanenko",
+    "Vehicle": "ISS Incr-35",
+    "Date": "04/19/2013",
+    "Duration": "6:38",
+    "Purpose": "Installed plasma experiment/cables/probes, replaced degraded ATV navigation reflector, jettisoned cable reel, towels and probe boxes, retrieved biorisk canister. Lost materials exposure experiment overboard"
+  },
+  {
+    "EVA #": 369,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikhin                  Alexander Misurkin",
+    "Vehicle": "ISS Incr-36",
+    "Date": "06/24/2013",
+    "Duration": "6:34",
+    "Purpose": "Power cable clamps installed and Kurs tested in prep for MLM. Replaced FGB flow control valve. Installed INDICATOR of CONTROL space experiment on MRM2.  Removed VINOSLIVOST  experiment from MRM-2 and PHOTON-GAMMA from SM.  Installed 3 of 5 SM handrail gap spanners"
+  },
+  {
+    "EVA #": 370,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikhin                  Alexander Misurkin",
+    "Vehicle": "ISS Incr-36",
+    "Date": "08/16/2013",
+    "Duration": "7:29",
+    "Purpose": "Â Installed VINOSLIVOST experiment on MRM2, 2 MLMÂUSOS power cables, FGB Â MRM2 gap spanners, MLM-USOS ETHERNET cable\nÂ Installation of gap spanners SM Â MRM2 (if time allows)\nÂ Retracted & stowed Strela-1 on DC1"
+  },
+  {
+    "EVA #": 371,
+    "Country": "Russia",
+    "Crew": "Fyodor Yurchikhin                  Alexander Misurkin",
+    "Vehicle": "ISS Incr-36",
+    "Date": "08/22/2013",
+    "Duration": "5:58",
+    "Purpose": "Â Retrieved laser downlink comm experiment from SM and replaced it with a biaxial camera pointing system.  \nÂ Inspected all 6 ATV WAL PCE antennas and tightened loose screws that lost an antenna cover overboard. \nÂ collected surface ÂTestÂ samples on MRM2 EV Hatch 2\nÂ Installed 2 gap spanners on SM\n Displayed Russian flag for national holiday"
+  }
+]
