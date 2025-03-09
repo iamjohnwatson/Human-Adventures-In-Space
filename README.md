@@ -67,8 +67,6 @@ This project uses several libraries loaded via CDN:
 
 - **Astronaut and Spacewalk Data:**  
   Courtesy of the [CORGIS Dataset Project](https://corgis-edu.github.io/corgis/).
-- **Background Image:**  
-  Sourced from Unsplash (Credit: Mark Schulte).
 
 ## License
 
@@ -77,9 +75,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Thanks to the CORGIS Dataset Project for the data.
-- Special thanks to Mark Schulte for the background image.
 - Inspired by interactive graphics from Reuters Graphics and other data visualization pioneers.
 
 ---
 
-Simply copy this text into a file named `README.md` in your repository root on GitHub.
