@@ -1,6 +1,4 @@
-Below is a nicely formatted README in Markdown:
 
----
 
 # Human Adventures in Space
 
