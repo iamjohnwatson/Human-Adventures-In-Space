@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Human Adventures in Space</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Orbitron|Space+Mono&display=swap" rel="stylesheet" />
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css" />
+  <!-- D3.js -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- TopoJSON - Adding missing dependency -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+  <!-- GSAP -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+  <!-- ScrollMagic -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/animation.gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndicators.min.js"></script>
+  <!-- Three.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <!-- OrbitControls - make sure path matches Three.js version -->
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  <!-- Three.js Loaders -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/js/loaders/FontLoader.js"></script>
+</head>
+<body>
+  <!-- Starfield Background -->
+  <div class="starfield" id="starfield"></div>
+
+  <audio id="bgMusic" loop>
+    <source src="https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/9MEtEIkGClCUim4X6r8W3cOGWzx3RNd7S6SGyLOd.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  
+  <!-- Audio Controls -->
+  <div class="audio-controls" id="audioToggle">
+    <i class="fas fa-volume-mute"></i>
+  </div>
+
+  <header>
+    <h1>Human Adventures in Space</h1>
+  </header>
+
+  <!-- Section 1: Timeline of Crewed Missions -->
+  <section id="missions-timeline" class="section">
+    <div class="container">
+      <h2>Timeline of Crewed Missions</h2>
+      <div id="missions-chart"></div>
+      <div id="missions-summary" class="summary-text"></div>
+    </div>
+  </section>
+
+  <!-- Section 2: Spacewalks Timeline -->
+  <section id="spacewalks-timeline" class="section">
+    <div class="container">
+      <h2>Spacewalks Timeline</h2>
+      <div id="spacewalks-chart"></div>
+      <div id="spacewalks-summary" class="summary-text"></div>
+    </div>
+  </section>
+
+  <!-- Horizontal Scroll Sections Container -->
+  <div id="horizontal-scroll-trigger">
+    <div id="horizontal-container">
+      <!-- Section 3: Most Active Astronauts -->
+      <section id="most-active" class="section">
+        <div class="container">
+          <h2>Most Active Astronauts</h2>
+          <div id="most-active-chart"></div>
+          <div id="astronauts-summary" class="summary-text"></div>
+        </div>
+    </div>
+      </section>
+  
+  <!-- Section 4: Space-Faring Nations -->
+  <section id="space-globe" class="section">
+    <div class="container">
+      <h2>Space-Faring Nations</h2>
+      <div id="globe-container" style="width: 100%; height: 600px;"></div>
+      <div id="globe-summary" class="summary-text"></div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Human Adventures in Space. Data courtesy of the CORGIS Dataset Project. Data is as of January 15, 2020.</p>
+    <p class="credit">Created with ❤️ for space exploration</p>
+  </footer>
+
+  <!-- Script for audio control -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const audioToggle = document.getElementById('audioToggle');
+      const bgMusic = document.getElementById('bgMusic');
+      const icon = audioToggle.querySelector('i');
+      
+      // Start with muted state
+      bgMusic.muted = true;
+      
+      audioToggle.addEventListener('click', function() {
+        if (bgMusic.muted) {
+          bgMusic.muted = false;
+          bgMusic.play();
+          icon.classList.remove('fa-volume-mute');
+          icon.classList.add('fa-volume-up');
+        } else {
+          bgMusic.muted = true;
+          icon.classList.remove('fa-volume-up');
+          icon.classList.add('fa-volume-mute');
+        }
+      });
+    });
+  </script>
+
+  <script src="js/app.js"></script>
+  <!-- Adding the globe visualization script -->
+  <script src="js/globe.js"></script>
+</body>
+</html>
