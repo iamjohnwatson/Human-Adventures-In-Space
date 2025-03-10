@@ -1,6 +1,4 @@
-// ================= Section 5: Interactive Space Nations Globe ============== //
-// A completely reimagined globe visualization showing astronaut contributions by nation
-// with interactive elements, time-based animations, and mission flight paths
+// ================= Section 4: Interactive Space Nations Globe ============== //
 
 function createEnhancedSpaceGlobe() {
     // Configuration with improved dimensions for better visibility
@@ -153,7 +151,7 @@ function createEnhancedSpaceGlobe() {
     // Create a group for launch sites
     const launchSitesGroup = globeGroup.append("g").attr("class", "launch-sites");
     
-    // Create a better designed tooltip
+    // Create tooltip
     const tooltip = d3.select("body").append("div")
       .attr("class", "tooltip")
       .style("position", "absolute")
@@ -211,7 +209,6 @@ function createEnhancedSpaceGlobe() {
         "Italy": "ITA",
         "Canada": "CAN",
         "United Kingdom": "GBR"
-        // Add other countries as needed
       };
       
       // Reverse mapping
@@ -420,9 +417,6 @@ function createEnhancedSpaceGlobe() {
         .attr("class", "legend-container")
         .attr("transform", `translate(20, 20)`);
         
-// Update the legend container section to properly include legend items
-// Around line 350-380 in the createEnhancedSpaceGlobe function
-
 // Legend background with adjusted width
 legendContainer.append("rect")
   .attr("width", 280) // Increased from 250 to accommodate content
@@ -472,9 +466,6 @@ legendItems.append("text")
   .attr("text-anchor", "end")
   .attr("fill", "#1E90FF")
   .text(d => d.count);
-
-// Fix the instructions group positioning and visibility
-// Around line 390-420
 
 // Add a better set of instructions
 const instructionsGroup = svg.append("g")
@@ -541,7 +532,7 @@ instructionsGroup.append("text")
       // Apply the drag behavior to the SVG
       svg.call(dragRotate);
       
-      // Auto-rotation animation (smoother and more elegant)
+      // Auto-rotation animation
       function autoRotate() {
         const rotate = projection.rotate();
         const newRotation = [rotate[0] + 0.1, rotate[1]];
@@ -610,7 +601,7 @@ instructionsGroup.append("text")
         .attr("font-size", "20px")
         .text("⏸️");
       
-      // Add written explanation below the globe
+      // Explanation below the globe
       const explanation = d3.select("#globe-summary")
   .html(`<p class="globe-explanation">
     Different countries have contributed astronauts reflecting geopolitical priorities, scientific ambitions, and available resources.
