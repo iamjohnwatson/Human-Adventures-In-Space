@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function() {
   )
   .addTo(controller);
 
-  // ================= 1) Timeline of Crewed Missions (With Scroll Animation) =================
+  // ================= 1) Timeline of Crewed Missions =================
   d3.json("data/astronauts.json").then(function(data) {
     // Group by year => count
     let missionsByYear = d3.rollup(
@@ -279,7 +279,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 
-  // Rest of the code remains unchanged
   // ================= 2) Spacewalks Timeline with Scroll Animation =================
   d3.json("data/spacewalks.json").then(function(data) {
     let parseDate = d3.timeParse("%m/%d/%Y");
@@ -425,10 +424,9 @@ document.addEventListener("DOMContentLoaded", function() {
     d3.select("#spacewalks-summary").html(spacewalksSummary);
   });
 
-  // The rest of the original code remains unchanged
   // ================= 3) Most Active Astronauts with Scroll Reveal =================
   d3.json("data/astronauts.json").then(function(data) {
-    // Code for active astronauts chart (unchanged)
+    // Code for active astronauts chart
     let activeMap = d3.rollup(
       data,
       v => d3.max(v, d => +d["Profile.Lifetime Statistics.Mission count"]),
@@ -448,7 +446,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     let centerX = widthMA / 2, centerY = heightMA / 2;
     
-    // Instead of using force layout, we'll position the circles directly
+    // Position circles directly
     let color = d3.scaleOrdinal(d3.schemeCategory10);
     
     // Radial gradient fill
