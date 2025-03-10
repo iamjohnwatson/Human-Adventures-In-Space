@@ -32,7 +32,7 @@ p, .summary-text, text {
   position: absolute;
   background-color: #fff;
   border-radius: 50%;
-  opacity: 0.3; /* Low transparency as requested */
+  opacity: 0.3; /* Low transparency */
   will-change: transform; /* Performance optimization */
   box-shadow: 0 0 5px 1px rgba(255, 255, 255, 0.3); /* Glow effect */
 }
